@@ -1,0 +1,242 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/data/container.py" timestamp="1553612594806">
+        <mark key="[" line="2" column="62" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1555943910327">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/format/filter.py" timestamp="1553864145391">
+        <mark key="[" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/resource/frame.py" timestamp="1556339573791">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="70" />
+        <mark key="." line="7" column="70" />
+      </file>
+      <file name="/Python Console" timestamp="1555943952856">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/processing/task.py" timestamp="1555752993187">
+        <mark key="'" line="18" column="33" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="26" />
+        <mark key="^" line="17" column="42" />
+      </file>
+      <file name="/a.dummy" timestamp="1556454709089">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/resource/symbol.py" timestamp="1555852212429">
+        <mark key="'" line="2" column="18" />
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/format/builder.py" timestamp="1553613482951">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/task/parser.py" timestamp="1556454564886">
+        <mark key="'" line="105" column="12" />
+        <mark key="[" line="55" column="45" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/processing/filter.py" timestamp="1555854451926">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="58" column="3" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/performance/data_access.py" timestamp="1553925390750">
+        <mark key="'" line="57" column="4" />
+        <mark key="^" line="59" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/task/container.py" timestamp="1556358667776">
+        <mark key="[" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/cameraview-master/build.gradle" timestamp="1543415115134">
+        <mark key="[" line="16" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/task/formatter.py" timestamp="1555941615673">
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/resource/desc.py" timestamp="1555854324937">
+        <mark key="[" line="8" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/resource/data.py" timestamp="1555943861588">
+        <mark key="[" line="5" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/test.py" timestamp="1555943638671">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/resource/input.py" timestamp="1555851913347">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/resource/config.py" timestamp="1555942163064">
+        <mark key="'" line="39" column="4" />
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="35" column="20" />
+        <mark key="^" line="35" column="20" />
+        <mark key="." line="35" column="20" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="30" column="53" filename="$USER_HOME$/AndroidStudioProjects/helloTest/app/src/main/res/layout/activity_menu.xml" />
+      <jump line="8" column="30" filename="$USER_HOME$/workspace/repos/pypractice/performance/data_access.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/workspace/repos/pypractice/performance/data_access.py" />
+      <jump line="23" column="8" filename="$USER_HOME$/workspace/repos/pypractice/performance/data_access.py" />
+      <jump line="46" column="8" filename="$USER_HOME$/workspace/repos/pypractice/performance/data_access.py" />
+      <jump line="50" column="4" filename="$USER_HOME$/workspace/repos/pypractice/performance/data_access.py" />
+      <jump line="18" column="33" filename="$USER_HOME$/workspace/repos/pypractice/data_formatting/processing/task.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/repos/pypractice/data_formatting/resource/symbol.py" />
+      <jump line="13" column="4" filename="$USER_HOME$/workspace/repos/pypractice/data_formatting/resource/symbol.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/repos/pypractice/data_formatting/resource/symbol.py" />
+      <jump line="3" column="18" filename="$USER_HOME$/workspace/repos/pypractice/data_formatting/resource/symbol.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/repos/pypractice/data_formatting/task/formatter.py" />
+      <jump line="19" column="8" filename="$USER_HOME$/workspace/repos/pypractice/data_formatting/task/formatter.py" />
+      <jump line="11" column="13" filename="$USER_HOME$/workspace/repos/pypractice/data_formatting/task/parser.py" />
+      <jump line="35" column="20" filename="$USER_HOME$/workspace/repos/pypractice/data_formatting/resource/config.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/repos/pypractice/data_formatting/resource/config.py" />
+      <jump line="39" column="4" filename="$USER_HOME$/workspace/repos/pypractice/data_formatting/resource/config.py" />
+      <jump line="27" column="4" filename="$USER_HOME$/workspace/repos/pypractice/data_formatting/task/container.py" />
+      <jump line="37" column="8" filename="$USER_HOME$/workspace/repos/pypractice/data_formatting/task/container.py" />
+      <jump line="47" column="8" filename="$USER_HOME$/workspace/repos/pypractice/data_formatting/task/container.py" />
+      <jump line="47" column="27" filename="$USER_HOME$/workspace/repos/pypractice/data_formatting/task/parser.py" />
+      <jump line="83" column="12" filename="$USER_HOME$/workspace/repos/pypractice/data_formatting/task/parser.py" />
+      <jump line="49" column="38" filename="$USER_HOME$/workspace/repos/pypractice/data_formatting/task/parser.py" />
+      <jump line="95" column="12" filename="$USER_HOME$/workspace/repos/pypractice/data_formatting/task/parser.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhcnNlciA9IHBhcnNlcgo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>part[0].get(self.list), part[1], part[2], part[3]</text>
+      </register>
+      <register name="/" type="4">
+        <text>dict_desc</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgQGFiYy5hYnN0cmFjdG1ldGhvZAogICAgZGVmIHJhdyhzZWxmKToKICAgICAgICByYWlzZSBBdHRyaWJ1dGVFcnJvcigncmF3IGlzIG5vdCBiZWVuIGltcGxlbWVudGVkJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5mb3JtYXQoc2VsZikpCgogICAgQHJhdy5zZXR0ZXIKICAgIGRlZiByYXcoc2VsZiwgdmFsKToKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCdyYXcgaXMgbm90IGltcGxlbWVudGVkIGZvciB7fScKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5mb3JtYXQoc2VsZikpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhcnNlciA9IHBhcnNlcgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRhc2s6IEltcGxlbWVudCBiZWxvdwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">QHNpeC5hZGRfbWV0YWNsYXNzKGFiYy5BQkNNZXRhKQpjbGFzcyBEYXRhQ29udGFpbmVyKG9iamVjdCk6CiAgICBAYWJjLmFic3RyYWN0bWV0aG9kCiAgICBkZWYgc2V0X2dyb3VwKHNlbGYsIGFyZyk6CiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcignc2V0X2lkIGlzIG5vdCBpbXBsZW1lbnRlZCBmb3Ige30nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZm9ybWF0KHNlbGYpKQoKICAgIEBhYmMuYWJzdHJhY3RtZXRob2QKICAgIGRlZiBzZXRfY2xhc3NpZmllcihzZWxmLCBhcmcpOgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoJ3NldF9jbGFzc2lmaWVyIGlzIG5vdCBpbXBsZW1lbnRlZCBmb3Ige30nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZm9ybWF0KHNlbGYpKQoKICAgIEBhYmMuYWJzdHJhY3RtZXRob2QKICAgIGRlZiBzZXRfZGF0YShzZWxmLCBhcmcpOgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoJ3NldF9kYXRhIGlzIG5vdCBpbXBsZW1lbnRlZCBmb3Ige30nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZm9ybWF0KHNlbGYpKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb24gPSBwYXJ0WzBdLnBvcChzZWxmLmFyZWEsICcnKQogICAgICAgICAgICBiaW5hcnkgPSBwYXJ0WzBdLnBvcChzZWxmLmRhdGEsIE5vbmUpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgQGFiYy5hYnN0cmFjdG1ldGhvZAogICAgZGVmIGNsYXNzaWZpZXIoc2VsZik6CiAgICAgICAgcmFpc2UgQXR0cmlidXRlRXJyb3IoJ2NsYXNzaWZpZXIgaXMgbm90IGJlZW4gaW1wbGVtZW50ZWQnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmZvcm1hdChzZWxmKSkKCiAgICBAY2xhc3NpZmllci5zZXR0ZXIKICAgIGRlZiBjbGFzc2lmaWVyKHNlbGYsIHZhbCk6CiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcignY2xhc3NpZmllciBpcyBub3QgaW1wbGVtZW50ZWQgZm9yIHt9JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmZvcm1hdChzZWxmKSkKCiAgICBAcHJvcGVydHkKICAgIEBhYmMuYWJzdHJhY3RtZXRob2QKICAgIGRlZiBkYXRhKHNlbGYpOgogICAgICAgIHJhaXNlIEF0dHJpYnV0ZUVycm9yKCdkYXRhIGlzIG5vdCBiZWVuIGltcGxlbWVudGVkJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5mb3JtYXQoc2VsZikpCgogICAgQGRhdGEuc2V0dGVyCiAgICBkZWYgZGF0YShzZWxmLCB2YWwpOgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IoJ2RhdGEgaXMgbm90IGltcGxlbWVudGVkIGZvciB7fScKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5mb3JtYXQoc2VsZikpCgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgQGFiYy5hYnN0cgogICAgZGVmIHJhdyhzZWxmKToKICAgICAgICByYWlzZSBBdHRyaWJ1dGVFcnJvcigncmF3IGlzIG5vdCBiZWVuIGltcGxlbWVudGVkJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5mb3JtYXQoc2VsZikpCgogICAgQHJhdy5zZXR0ZXIKICAgIGRlZiByYXcoc2VsZiwgdmFsKToKICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCdyYXcgaXMgbm90IGltcGxlbWVudGVkIGZvciB7fScKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5mb3JtYXQoc2VsZikpCgogICAgQHByb3BlcnR5CiAgICBAYWJjLmFic3RyYWN0bWV0aG9kCiAgICBkZWYgZ3JvdXAoc2VsZik6CiAgICAgICAgcmFpc2UgQXR0cmlidXRlRXJyb3IoJ2dyb3VwIGlzIG5vdCBiZWVuIGltcGxlbWVudGVkJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5mb3JtYXQoc2VsZikpCgogICAgQGdyb3VwLnNldHRlcgogICAgZGVmIGdyb3VwKHNlbGYsIHZhbCk6CiAgICAgICAgcmFpc2UgTm90SW1wbGVtZW50ZWRFcnJvcignZ3JvdXAgaXMgbm90IGltcGxlbWVudGVkIGZvciB7fScKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5mb3JtYXQoc2VsZikpCgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgQGFiYy5hYnN0cmFjdG1ldGhvZAogICAgZGVmIGRhdGEoc2VsZik6CiAgICAgICAgcGFzcwoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgQGFiYy5hYnN0cmFjdG1ldGhvZAogICAgZGVmIGNsYXNzaWZpZXIoc2VsZik6CiAgICAgICAgcGFzcwoK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgQGFiYy5hYnN0cmFjdG1ldGhvZAogICAgZGVmIGlkKHNlbGYpOgogICAgICAgIHBhc3MKCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zL2RpY3RfZGVzYy9vcHRpb24vZw==</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>dict_desc</last-search>
+      <last-offset />
+      <last-pattern>dict_desc</last-pattern>
+      <last-replace>option</last-replace>
+      <last-substitute>dict_desc</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>orient</entry>
+        <entry>print(\([[:print:]]\+\))</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry>.length</entry>
+        <entry>\&quot;</entry>
+        <entry>raw</entry>
+        <entry>object</entry>
+        <entry>dict_desc</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zL3ByaW50KFwoW1s6cHJpbnQ6XV1cK1wpKS90ZXN0LmFwcGVuZChcMSkvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLy5sZW5ndGgvLnRvdGFsL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1wiL1wnL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3Jhdy9ncm91cC9n</entry>
+        <entry encoding="base64">JzwsJz5zL3Jhdy9jbGFzc2lmaWVyL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3Jhdy9kYXRhL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL29iamVjdC9CYXNlUGFyc2VyL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2RpY3RfZGVzYy9vcHRpb24vZw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
