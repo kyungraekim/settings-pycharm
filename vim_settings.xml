@@ -174,9 +174,6 @@
       <file name="$USER_HOME$/workspace/sfd/train.py" timestamp="1559879207866">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1544427218399">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/vips_emulator/answer_sheet.csv" timestamp="1526957810698">
         <mark key="[" line="0" column="0" />
       </file>
@@ -272,6 +269,9 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="90" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/dl-inspector-glasses/mlinspector/engine/model/inference.py" timestamp="1560493300377">
+        <mark key="[" line="253" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/DinoClassifier/classifier.py" timestamp="1531656357997">
         <mark key="[" line="14" column="21" />
       </file>
@@ -283,6 +283,9 @@
         <mark key="]" line="95" column="82" />
         <mark key="^" line="95" column="80" />
         <mark key="." line="95" column="80" />
+      </file>
+      <file name="$USER_HOME$/Documents/dl-inspector-glasses/mlinspector/util/resource.py" timestamp="1560493325479">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/tests/engine/sevtpostprocess/test_sevtpostprocess.py" timestamp="1532184038813">
         <mark key="[" line="0" column="13" />
@@ -440,7 +443,7 @@
       <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/dinoanomaly/extract.py" timestamp="1531657983156">
         <mark key="[" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/dl-inspector-glasses/change_target.py" timestamp="1560483063667" />
+      <file name="$USER_HOME$/Documents/dl-inspector-glasses/change_target.py" timestamp="1560492307865" />
       <file name="$USER_HOME$/Documents/vips-ml-inspector/temps/integration/json_dumper.py" timestamp="1527138448215">
         <mark key="[" line="76" column="57" />
         <mark key="]" line="81" column="36" />
@@ -473,7 +476,7 @@
       <file name="$USER_HOME$/Documents/sr_repo/testenv-model/models/dinoanomaly/BaseInspector.py" timestamp="1531727798333">
         <mark key="[" line="90" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/dlengine/mlinspector/conf/engine.yaml" timestamp="1560491518755">
+      <file name="$USER_HOME$/Documents/dlengine/mlinspector/conf/engine.yaml" timestamp="1560492303085">
         <mark key="[" line="20" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/dinoanomaly/DinoAnomaly.py" timestamp="1531658028007">
@@ -643,6 +646,9 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="10" column="31" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dl-inspector-glasses/rsc_util.py" timestamp="1560492331972">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/tests/util/test_loader.py" timestamp="1532173582956">
         <mark key="[" line="14" column="43" />
