@@ -38,12 +38,6 @@
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/Deliver.py" timestamp="1531214542726">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/testenv-model/models/metalframe/metal_inspector.py" timestamp="1544163749411">
-        <mark key="'" line="133" column="6" />
-        <mark key="]" line="147" column="12" />
-        <mark key="." line="12" column="24" />
-        <mark key="^" line="12" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/DinoAnomaly/BaseInspector.py" timestamp="1531655117301">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="32" column="29" />
@@ -585,6 +579,12 @@
         <mark key="]" line="30" column="16" />
         <mark key="^" line="30" column="49" />
         <mark key="." line="30" column="16" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1560496460955">
+        <mark key="'" line="0" column="9" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/status/scoreboard.py" timestamp="1532251624396">
         <mark key="[" line="78" column="46" />
