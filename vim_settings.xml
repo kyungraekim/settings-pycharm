@@ -6,54 +6,14 @@
       <file name="/start_script.py" timestamp="1520567197705">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/tests/controller/test_position.py" timestamp="1532157407585">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/testenv-model/models/dinomodel/BaseInspector.py" timestamp="1531736524591">
         <mark key="[" line="89" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/integrated/dinoinspector/BaseInspector.py" timestamp="1531663902971">
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="13" column="5" />
-        <mark key="." line="13" column="5" />
-        <mark key="^" line="12" column="8" />
-      </file>
-      <file name="/a.dummy" timestamp="1544429221543">
+      <file name="/a.dummy" timestamp="1560497242005">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/speedtest/queue_vs_new_thread.py" timestamp="1530600379631">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="33" column="12" />
-        <mark key="^" line="32" column="11" />
-        <mark key="." line="33" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/controller/position.py" timestamp="1531303115308">
-        <mark key="[" line="12" column="39" />
-        <mark key="]" line="15" column="38" />
-        <mark key="^" line="15" column="38" />
-        <mark key="." line="15" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/Deliver.py" timestamp="1531214542726">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/DinoAnomaly/BaseInspector.py" timestamp="1531655117301">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="32" column="29" />
-        <mark key="." line="32" column="29" />
-        <mark key="^" line="33" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/ModelProcess.py" timestamp="1530846123215">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="266" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/temps/models/dino_180713/DinoInspector.py" timestamp="1531532813386">
-        <mark key="[" line="49" column="57" />
-        <mark key="]" line="49" column="58" />
-        <mark key="." line="49" column="58" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/speedtest/callback_test.py" timestamp="1530613573886">
         <mark key="[" line="0" column="0" />
@@ -68,31 +28,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/tensorflow/lib/python3.6/site-packages/psutil/__init__.py" timestamp="1560494421985" />
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/batch/ScoreBoard.py" timestamp="1530668028851">
-        <mark key="[" line="39" column="13" />
-        <mark key="]" line="39" column="14" />
-        <mark key="^" line="39" column="14" />
-        <mark key="." line="39" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/testenv-model/simulate.py" timestamp="1531664673304">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="5" />
-        <mark key="." line="7" column="5" />
-      </file>
       <file name="$USER_HOME$/Documents/vips-ml-inspector-DINOPQC/temps/engine_tester.py" timestamp="1530867662260">
         <mark key="[" line="68" column="55" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/untitled/test.py" timestamp="1520512000072">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="5" column="46" />
-        <mark key="." line="5" column="46" />
-        <mark key="^" line="5" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/temps/engine_tester.yaml" timestamp="1531905707742">
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-        <mark key="." line="1" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/testenv-model/models/dinomodel/DinoInspector.py" timestamp="1531715373993">
         <mark key="[" line="50" column="26" />
@@ -100,55 +37,14 @@
       <file name="$USER_HOME$/Documents/testenv-model/models/dinomodel/libs/ops.py" timestamp="1531666425609">
         <mark key="[" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/testenv-model/outputs/separated-output.txt" timestamp="1531813675513">
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="6" column="37" />
-        <mark key="^" line="6" column="37" />
-        <mark key="." line="6" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/vips-ml-inspector/conf/inbounds-docker.yaml" timestamp="1527139721130">
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="19" />
-        <mark key="^" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/integrated/dinoinspector/demo.py" timestamp="1531663856890">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-        <mark key="^" line="9" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/integrated/dinoinspector/DinoInspector.py" timestamp="1531663760431">
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="14" column="5" />
-        <mark key="." line="14" column="5" />
+      <file name="$USER_HOME$/Documents/dlengine/mlinspector/engine/exposable/deployment.py" timestamp="1560497446931">
+        <mark key="[" line="0" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/temps/models/dino_180713/demo.py" timestamp="1531529626918">
         <mark key="[" line="52" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/testenv-model/simul/formatter.py" timestamp="1544427312941">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="13" column="16" />
-        <mark key="^" line="13" column="16" />
-        <mark key="." line="13" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/tests/engine/pipeline/status/test_scoreboard.py" timestamp="1532251671877">
-        <mark key="[" line="117" column="39" />
-        <mark key="]" line="117" column="43" />
-        <mark key="^" line="45" column="12" />
-        <mark key="." line="100" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/vips-ml-inspector-DINOPQC/conf/sources-docker.yaml" timestamp="1530752801002">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="5" column="12" />
-        <mark key="^" line="4" column="13" />
-        <mark key="." line="4" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/scoreboard/BatchScoreBoard.py" timestamp="1531211369695">
         <mark key="[" line="76" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/testenv-model/simul/sheet.py" timestamp="1544427115515">
-        <mark key="'" line="127" column="44" />
       </file>
       <file name="$USER_HOME$/Downloads/dl-server/EdgeDL검증/src/constants.py" timestamp="1530868955119">
         <mark key="[" line="7" column="24" />
@@ -158,6 +54,9 @@
       </file>
       <file name="$USER_HOME$/Documents/vips-ml-inspector/util/Configuration.py" timestamp="1526627618708">
         <mark key="[" line="43" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/dlengine/mlinspector/engine/exposable/execution.py" timestamp="1560498775714">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/bound/boundary/zmq.py" timestamp="1531301535353">
         <mark key="[" line="18" column="15" />
@@ -177,59 +76,8 @@
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/util/constants.py" timestamp="1531118344733">
         <mark key="[" line="41" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/conf/sinks.yaml" timestamp="1530590326853">
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="20" />
-        <mark key="^" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/tests/job/test_context.py" timestamp="1532182064172">
-        <mark key="'" line="26" column="11" />
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="25" column="11" />
-        <mark key="." line="25" column="11" />
-        <mark key="^" line="25" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/temps/engine_tester.py" timestamp="1531833073291">
-        <mark key="[" line="90" column="44" />
-        <mark key="]" line="90" column="44" />
-        <mark key="^" line="77" column="11" />
-        <mark key="." line="90" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/tests/engine/bound/boundary/test_ezmq.py" timestamp="1532183040032">
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="13" />
-        <mark key="." line="15" column="13" />
-        <mark key="^" line="6" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/vips-ml-inspector/engine/postprocess/count.py" timestamp="1526953825632">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="11" column="27" />
-        <mark key="." line="11" column="27" />
-        <mark key="^" line="11" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/postprocess/batch.py" timestamp="1532248983722">
-        <mark key="[" line="76" column="30" />
-        <mark key="]" line="31" column="34" />
-        <mark key="." line="31" column="34" />
-        <mark key="^" line="32" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/tests/engine/test_core.py" timestamp="1532183900596">
-        <mark key="'" line="12" column="29" />
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="8" column="8" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="4" column="7" />
-      </file>
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/temps/models/dino0711/BaseInspector.py" timestamp="1531313024705">
         <mark key="[" line="69" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/testenv-model/test.py" timestamp="1544426869914">
-        <mark key="'" line="36" column="26" />
-        <mark key="[" line="58" column="38" />
-        <mark key="]" line="58" column="38" />
-        <mark key="^" line="36" column="41" />
-        <mark key="." line="58" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/dinoclassifier/libs/ops.py" timestamp="1531657307142">
         <mark key="[" line="3" column="5" />
@@ -240,25 +88,8 @@
       <file name="$USER_HOME$/PycharmProjects/vips_emulator/launcher.py" timestamp="1526959102847">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/testenv-model/models/metalframe/model.py" timestamp="1544429201442">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="10" column="16" />
-        <mark key="." line="10" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/DinoAnomaly/DinoAnomaly.py" timestamp="1531657090295">
-        <mark key="[" line="13" column="6" />
-        <mark key="]" line="42" column="8" />
-        <mark key="^" line="39" column="53" />
-        <mark key="." line="42" column="8" />
-      </file>
       <file name="$USER_HOME$/Downloads/dl-server/src_dev/mock/mocks.py" timestamp="1530871856651">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/vips-ml-inspector/job/JobInfo.py" timestamp="1526984091860">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="59" column="53" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="90" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/dl-inspector-glasses/mlinspector/engine/model/inference.py" timestamp="1560494936160">
         <mark key="[" line="232" column="87" />
@@ -272,45 +103,11 @@
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/batch/BatchProgress.py" timestamp="1530582510215">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/metal20180514/MetalFrameInspector.py" timestamp="1530873511151">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="95" column="82" />
-        <mark key="^" line="95" column="80" />
-        <mark key="." line="95" column="80" />
-      </file>
       <file name="$USER_HOME$/Documents/dl-inspector-glasses/mlinspector/util/resource.py" timestamp="1560494823121">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/tests/engine/sevtpostprocess/test_sevtpostprocess.py" timestamp="1532184038813">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="62" column="67" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/testenv-model/simul/validate.py" timestamp="1544169840168">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/testenv-model/simul/tester.py" timestamp="1544426525454">
-        <mark key="'" line="202" column="25" />
-        <mark key="[" line="168" column="34" />
-        <mark key="]" line="168" column="35" />
-        <mark key="." line="168" column="35" />
-        <mark key="^" line="168" column="34" />
-      </file>
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/setup.py" timestamp="1531034213139">
         <mark key="[" line="44" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/integrated/demo.py" timestamp="1531634919242">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/tests/engine/pipeline/bypass/test_event.py" timestamp="1532226680890">
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="34" column="8" />
-        <mark key="^" line="18" column="4" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/testenv-model/models/dinoanomaly/DinoAnomaly.py" timestamp="1531715343977">
         <mark key="[" line="46" column="26" />
@@ -321,23 +118,11 @@
       <file name="$USER_HOME$/Documents/vips-ml-inspector/util/constants.py" timestamp="1526608111659">
         <mark key="[" line="46" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/tests/engine/bound/boundary/test_zmq.py" timestamp="1532182980204">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="43" column="13" />
-        <mark key="^" line="43" column="12" />
-        <mark key="." line="43" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/preprocess/batch.py" timestamp="1531579960264">
         <mark key="[" line="6" column="23" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/logserver/Dockerfile" timestamp="1526618355335">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/vips-ml-inspector/Dockerfile" timestamp="1526895312045">
-        <mark key="[" line="60" column="1" />
-        <mark key="]" line="60" column="2" />
-        <mark key="^" line="52" column="1" />
-        <mark key="." line="60" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/testenv-model/models/dinoclassifier/classifier.py" timestamp="1531738285572">
         <mark key="[" line="34" column="20" />
@@ -354,6 +139,9 @@
       <file name="$USER_HOME$/Documents/sr_repo/testenv-model/test.py" timestamp="1531737035163">
         <mark key="[" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dlengine/mlinspector/job/launch.py" timestamp="1560497488829">
+        <mark key="[" line="304" column="21" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/vips_emulator/sender.py" timestamp="1526625738628">
         <mark key="[" line="0" column="0" />
       </file>
@@ -369,31 +157,8 @@
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/temps/models/dino0711/demo.py" timestamp="1531367468784">
         <mark key="[" line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/integrated/BaseInspector.py" timestamp="1531662031175">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="60" />
-        <mark key="^" line="70" column="19" />
-        <mark key="." line="70" column="19" />
-      </file>
       <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/dinoanomaly/BaseInspector.py" timestamp="1531657914538">
         <mark key="[" line="6" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/dinoanomaly/demo.py" timestamp="1531660527774">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/integrated/DinoInspector.py" timestamp="1531662052388">
-        <mark key="[" line="42" column="35" />
-        <mark key="]" line="39" column="64" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/temps/models/metal20180514/metalframe/MetalFrameInspector.py" timestamp="1532682159305">
-        <mark key="[" line="115" column="76" />
-        <mark key="]" line="115" column="76" />
-        <mark key="." line="115" column="76" />
-        <mark key="^" line="115" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/dinoclassifier/demo.py" timestamp="1531657344772">
         <mark key="[" line="9" column="5" />
@@ -404,46 +169,21 @@
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/job/context.py" timestamp="1532218225681">
         <mark key="[" line="66" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/vips-ml-inspector/controller/config.py" timestamp="1526610007176">
-        <mark key="[" line="29" column="39" />
-        <mark key="]" line="29" column="8" />
-        <mark key="^" line="19" column="27" />
-        <mark key="." line="29" column="8" />
+      <file name="$USER_HOME$/Documents/dlengine/mlinspector/engine/deploy.py" timestamp="1560498336849">
+        <mark key="[" line="48" column="43" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/temps/io_test.py" timestamp="1532680801924">
         <mark key="[" line="9" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/vips-ml-inspector-DINOPQC/temps/io_test.py" timestamp="1530870555894">
-        <mark key="[" line="24" column="14" />
-        <mark key="]" line="24" column="8" />
-        <mark key="^" line="18" column="68" />
-        <mark key="." line="24" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/util/loader.py" timestamp="1531707396945">
-        <mark key="[" line="25" column="28" />
-        <mark key="]" line="25" column="36" />
-        <mark key="." line="25" column="36" />
-        <mark key="^" line="25" column="36" />
-      </file>
       <file name="$USER_HOME$/Documents/testenv-model/models/dinoclassifier/BaseInspector.py" timestamp="1544161735345">
         <mark key="[" line="45" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/testenv-model/simul/wrapper.py" timestamp="1544164960205">
-        <mark key="[" line="102" column="17" />
-        <mark key="]" line="102" column="16" />
-        <mark key="." line="102" column="16" />
-        <mark key="^" line="70" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/dinoanomaly/extract.py" timestamp="1531657983156">
         <mark key="[" line="2" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/dl-inspector-glasses/change_target.py" timestamp="1560492307865" />
-      <file name="$USER_HOME$/Documents/vips-ml-inspector/temps/integration/json_dumper.py" timestamp="1527138448215">
-        <mark key="[" line="76" column="57" />
-        <mark key="]" line="81" column="36" />
-        <mark key="." line="81" column="36" />
-        <mark key="^" line="67" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/vips-ml-inspector/temps/BaseInspector.py" timestamp="1526630706683">
         <mark key="[" line="65" column="53" />
       </file>
@@ -456,49 +196,14 @@
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/bypass/data.py" timestamp="1532221662118">
         <mark key="[" line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/testenv-model/simul/inference.py" timestamp="1544003990473">
-        <mark key="[" line="49" column="14" />
-        <mark key="]" line="49" column="15" />
-        <mark key="." line="49" column="15" />
-        <mark key="^" line="49" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/tests/controller/test_status.py" timestamp="1532157612905">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="62" column="46" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/sr_repo/testenv-model/models/dinoanomaly/BaseInspector.py" timestamp="1531727798333">
         <mark key="[" line="90" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/dlengine/mlinspector/conf/engine.yaml" timestamp="1560492303085">
         <mark key="[" line="20" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/dinoanomaly/DinoAnomaly.py" timestamp="1531658028007">
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="14" column="13" />
-        <mark key="." line="14" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/tests/job/test_api.py" timestamp="1532218467632">
-        <mark key="'" line="30" column="8" />
-        <mark key="[" line="53" column="46" />
-        <mark key="]" line="54" column="48" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="56" column="21" />
-      </file>
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/Dockerfile" timestamp="1531117700434">
         <mark key="[" line="34" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/DinoClassifier/BaseInspector.py" timestamp="1531656231128">
-        <mark key="[" line="49" column="51" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="49" column="24" />
-        <mark key="." line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/metal20180514/SampleModel.py" timestamp="1530874007672">
-        <mark key="[" line="98" column="8" />
-        <mark key="]" line="104" column="83" />
-        <mark key="." line="101" column="0" />
-        <mark key="^" line="99" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/conf/inspection.yaml" timestamp="1531211891579">
         <mark key="[" line="1" column="11" />
@@ -509,52 +214,17 @@
       <file name="$USER_HOME$/Documents/vips-ml-inspector/temps/tester.py" timestamp="1527133333221">
         <mark key="[" line="16" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/temps/models/dino0711/DinoInspector.py" timestamp="1531314778252">
-        <mark key="[" line="39" column="57" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/conf/format-inspection.yaml" timestamp="1532679769191">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="5" />
-        <mark key="." line="9" column="5" />
-        <mark key="^" line="11" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/tests/engine/pipeline/postprocess/test_batch.py" timestamp="1532249032675">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="17" column="16" />
-      </file>
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/batch/BatchAggregator.py" timestamp="1530590357309">
         <mark key="[" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/testenv-model/models/dinomodel/extract.py" timestamp="1531666357300">
         <mark key="[" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/tests/engine/pipeline/status/test_plumber.py" timestamp="1532249488092">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="8" />
-        <mark key="^" line="15" column="12" />
-        <mark key="." line="15" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/testenv-model/models/dinomodel/demo.py" timestamp="1531666408783">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/vips-ml-inspector/temps/DinoInspector.py" timestamp="1526524369904">
         <mark key="[" line="38" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/testenv-model/models/dinoanomaly/BaseInspector.py" timestamp="1544161431020">
         <mark key="[" line="31" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/integrated/dinoinspector/extract.py" timestamp="1531663789962">
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="3" column="5" />
-        <mark key="." line="3" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/bypass/event.py" timestamp="1531453613467">
         <mark key="[" line="1" column="28" />
@@ -568,34 +238,11 @@
       <file name="$USER_HOME$/Documents/vips-ml-inspector-DINOPQC/engine_tester.yaml" timestamp="1530867499639">
         <mark key="[" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/temps/dino.py" timestamp="1531389716192">
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="43" />
-        <mark key="^" line="7" column="12" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/batch/BatchScoreBoard.py" timestamp="1530667544037">
-        <mark key="[" line="32" column="14" />
-        <mark key="]" line="30" column="16" />
-        <mark key="^" line="30" column="49" />
-        <mark key="." line="30" column="16" />
-      </file>
       <file name="/Dummy.txt" timestamp="1560496460955">
         <mark key="'" line="0" column="9" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/status/scoreboard.py" timestamp="1532251624396">
-        <mark key="[" line="78" column="46" />
-        <mark key="]" line="78" column="55" />
-        <mark key="." line="78" column="55" />
-        <mark key="^" line="72" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/temps/testprocess.py" timestamp="1531506663934">
-        <mark key="[" line="13" column="29" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/job/api.py" timestamp="1532175394852">
         <mark key="[" line="69" column="16" />
@@ -603,58 +250,17 @@
       <file name="$USER_HOME$/Documents/model_zip/dino/0713-orginal/demo.py" timestamp="1531722195887">
         <mark key="[" line="29" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/tests/engine/model/test_lock.py" timestamp="1532183216568">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="17" />
-        <mark key="." line="7" column="17" />
-        <mark key="^" line="7" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/ScoreBoard.py" timestamp="1530840974221">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="60" column="42" />
-      </file>
       <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/dinoanomaly/libs/ops.py" timestamp="1531657251175">
         <mark key="[" line="3" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/tests/engine/pipeline/bypass/test_data.py" timestamp="1532227243402">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="65" column="7" />
-        <mark key="^" line="53" column="20" />
-        <mark key="." line="53" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sfd/README.md" timestamp="1559530086604">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/status/plumber.py" timestamp="1531458006972">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="12" />
-        <mark key="." line="18" column="12" />
-      </file>
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/__init__.py" timestamp="1532175354952">
         <mark key="[" line="40" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/vips-ml-inspector/temps/io_test.py" timestamp="1527134820551">
-        <mark key="[" line="37" column="45" />
-        <mark key="]" line="30" column="22" />
-        <mark key="." line="30" column="22" />
-        <mark key="^" line="30" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/udf/count.py" timestamp="1531368087448">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="10" column="31" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dl-inspector-glasses/rsc_util.py" timestamp="1560492331972">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/tests/util/test_loader.py" timestamp="1532173582956">
-        <mark key="[" line="14" column="43" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="34" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/sevtpostprocess/sevt_count.py" timestamp="1531725167285">
         <mark key="[" line="10" column="41" />
@@ -766,44 +372,44 @@
       <jump line="195" column="25" filename="$USER_HOME$/Documents/testenv-model/simul/tester.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">UmVzTmV0NTBfMndheSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJhbGxlbGlzbSwgc3luY19tb2RlLCBiYXRjaF9tb2RlLCBldGMgPSBnZXRfZW5naW5lX2NvbmZpZyhlbmdpbmVfbG9hZC5lbmdpbmUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmVzTmV0NTBfMndheSA=</text>
+        <text>parallelism, sync_mode, batch_mode, etc_config</text>
       </register>
       <register name="/" type="4">
         <text>format_output</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhdGFfbGlzdCA9IGxpc3QoKQogICAgZGF0YV9saXN0LmV4dGVuZChkYXRhKQogICAgZm9yIGluZGV4LCBkYXRhIGluIGVudW1lcmF0ZShkYXRhX2xpc3QpOgogICAgICAgIHRlc3RfZGljdCA9IHsnYSc6IGRhdGF9CiAgICAgICAgdHJ5OgogICAgICAgICAgICBzZXJpYWxpemVkID0gYnNvbi5kdW1wcyh0ZXN0X2RpY3QpCiAgICAgICAgICAgIGJzb24ubG9hZHMoc2VyaWFsaXplZCkKICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICByZXR1cm4gaW5kZXggKyAxCgogICAgcmV0dXJuIDAK</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBlbmdpbmVfY29uZmlnOgogICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigiTm8gZW5naW5lIGNvbmZpZyBmb3IgYSBqb2IiKQogICAgZWxzZToKICAgICAgICBjb25mID0gZXhlY3V0aW9uLkV4ZWN1dGlvbk9wdGlvbi5mcm9tX2RpY3QoZW5naW5lX2NvbmZpZy5jb3B5KCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zZWxlY3RlZF9vdXRwdXRzLnVwZGF0ZShhcmdzKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbGxlbGlzbSwgc3luY19tb2RlLCBiYXRjaF9tb2RlLCBldGMgPSBnZXRfZW5naW5lX2NvbmZpZyhlbmdpbmVfbG9hZC5lbmdpbmUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIgTWFrZSBhbiBhcmNoaXZlIGZvciBzcGVjaWZpZWQgbW9kZWwuCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgQXJnczoKICAgICAgICAgICAgZGVzdGluYXRpb246IAogICAgICAgICAgICBmaWxlbmFtZTogCiAgICAgICAgICAgIG1vZGVsX3N0b3JlOiAKICAgICAgICAgICAgbmFtZTogCiAgICAgICAgICAgIGV4dDogCgogICAgICAgIFJldHVybnM6CgogICAgICAgICIiIgo=</text>
+        <text encoding="base64">ICAgIHBhcmFsbGVsaXNtID0gZXRjX2NvbmZpZy5wb3AoY29uc3QuRU5HSU5FX01BWF9USFJFQURTKQogICAgc3luY19tb2RlID0gZXRjX2NvbmZpZy5wb3AoY29uc3QuRU5HSU5FX1NZTkNfTU9ERSkKICAgIGJhdGNoX21vZGUgPSBldGNfY29uZmlnLnBvcChjb25zdC5FTkdJTkVfQkFUQ0hfUFJPQ0VTU0lORykKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgpjbGFzcyBCYXNlTW9kZWxJbnN0YW5jZShvYmplY3QpOgogICAgQ09ORklHX0ZJTEUgPSAiRW50cnkgRmlsZSBOYW1lIgogICAgQ09ORklHX0NMQVNTID0gIkVudHJ5IENsYXNzIE5hbWUiCiAgICBDT05GSUdfVEhSRVNIT0xEUyA9ICJUaHJlc2hvbGRzIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBtb2RlbF9kaXIsIG1vZHVsZV9uYW1lLCBjbGFzc19uYW1lKToKICAgICAgICBtb2R1bGVfZGlyID0gX2ZpbmRfbW9kdWxlKG1vZGVsX2RpciwgbW9kdWxlX25hbWUpCiAgICAgICAgc2VsZi53b3JraW5nX2RpciA9IG9zLnBhdGguZGlybmFtZShtb2R1bGVfZGlyKQogICAgICAgIHByaW50KCJXT1JLSU5HIiwgc2VsZi53b3JraW5nX2RpcikKICAgICAgICBwcmludCgiTU9EVUxFIiwgbW9kdWxlX2RpcikKICAgICAgICBzZWxmLm1vZHVsZV9kaXIgPSBvcy5wYXRoLmJhc2VuYW1lKG1vZHVsZV9kaXIpCiAgICAgICAgc2VsZi5tb2R1bGVfbmFtZSA9IG1vZHVsZV9uYW1lCiAgICAgICAgc2VsZi5jbGFzc19uYW1lID0gY2xhc3NfbmFtZQogICAgICAgIHNlbGYuaW5zdGFuY2UgPSBOb25lCiAgICAgICAgc2VsZi50aHJlc2hvbGQgPSB7fQoKICAgIGRlZiBjb250ZXh0KGZ1bmMpOgogICAgICAgIGRlZiBzd2l0Y2goc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICAgICAgYWJzX3BhdGggPSBvcy5wYXRoLmFic3BhdGgoc2VsZi53b3JraW5nX2RpcikKICAgICAgICAgICAgc3lzLnBhdGguYXBwZW5kKGFic19wYXRoKQogICAgICAgICAgICBjd2QgPSBvcy5nZXRjd2QoKQogICAgICAgICAgICBvcy5jaGRpcihzZWxmLndvcmtpbmdfZGlyKQogICAgICAgICAgICBmdW5jKHNlbGYsICphcmdzLCAqKmt3YXJncykKICAgICAgICAgICAgb3MuY2hkaXIoY3dkKQogICAgICAgICAgICBzeXMucGF0aC5yZW1vdmUoYWJzX3BhdGgpCgogICAgICAgIHJldHVybiBzd2l0Y2gKCiAgICBAY29udGV4dAogICAgZGVmIGxvYWQoc2VsZik6CiAgICAgICAgbW9kZWxfY2xhc3MgPSBfbG9hZF9tb2RlbChzZWxmLm1vZHVsZV9kaXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLm1vZHVsZV9uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5jbGFzc19uYW1lKQoKICAgICAgICBmb3IgYXR0ciBpbiBkaXIoQmFzZU1vZGVsSW50ZXJmYWNlKToKICAgICAgICAgICAgaWYgbm90IGhhc2F0dHIobW9kZWxfY2xhc3MsIGF0dHIpOgogICAgICAgICAgICAgICAgcmFpc2UgSW1wb3J0RXJyb3Ioc2VsZi5jbGFzc19uYW1lICsgIiBkb2VzIG5vdCBoYXZlICIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgc3RyKGF0dHIpICsgIiBhdHRyaWJ1dGUiKQogICAgICAgIHNlbGYuaW5zdGFuY2UgPSBtb2RlbF9jbGFzcygpCiAgICAgICAgc2VsZi5pbnN0YW5jZS5sb2FkKCkKCiAgICBAY29udGV4dAogICAgZGVmIHNldF90aHJlc2hvbGQoc2VsZiwgcG9zaXRpb24sIHRocmVzaG9sZCk6CiAgICAgICAgaWYgc2VsZi5pbnN0YW5jZToKICAgICAgICAgICAgc2VsZi5pbnN0YW5jZS5zZXRfdGhyZXNob2xkKHBvc2l0aW9uLCB0aHJlc2hvbGQpCgogICAgICAgICAgICB1cGRhdGVkID0gc2VsZi5pbnN0YW5jZS5nZXRfdGhyZXNob2xkKHBvc2l0aW9uKQogICAgICAgICAgICBpZiB0aHJlc2hvbGQgIT0gdXBkYXRlZDoKICAgICAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcihzZWxmLm1vZHVsZV9uYW1lICsgIiBmYWlsZWQgdG8gdXBkYXRlIHRocmVzaG9sZCIpCgogICAgICAgICAgICBzZWxmLnRocmVzaG9sZFtwb3NpdGlvbl0gPSB1cGRhdGVkCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc2VsZi50aHJlc2hvbGRbcG9zaXRpb25dID0gdGhyZXNob2xkCiAgICAgICAgICAgIHByaW50KCJXQVJOOiBUaHJlc2hvbGQgc2F2ZWQsIGJ1dCBtb2RlbCBpcyBub3QgbG9hZGVkIG5vdyIpCgogICAgQGNvbnRleHQKICAgIGRlZiBnZXRfdGhyZXNob2xkKHNlbGYsIHBvc2l0aW9uKToKICAgICAgICByZXR1cm4gc2VsZi5pbnN0YW5jZS5nZXRfdGhyZXNob2xkKHBvc2l0aW9uKQoKICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiBzdHIoewogICAgICAgICAgICBzZWxmLkNPTkZJR19GSUxFOiBzZWxmLm1vZHVsZV9uYW1lLAogICAgICAgICAgICBzZWxmLkNPTkZJR19DTEFTUzogc2VsZi5jbGFzc19uYW1lLAogICAgICAgICAgICBzZWxmLkNPTkZJR19USFJFU0hPTERTOiBzdHIoc2VsZi50aHJlc2hvbGQpCiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zZWxlY3RlZF9vdXRwdXRzLnVwZGF0ZShhcmdzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgQmFzZU1vZGVsSW5zdGFuY2Uob2JqZWN0KToKICAgIENPTkZJR19GSUxFID0gIkVudHJ5IEZpbGUgTmFtZSIKICAgIENPTkZJR19DTEFTUyA9ICJFbnRyeSBDbGFzcyBOYW1lIgogICAgQ09ORklHX1RIUkVTSE9MRFMgPSAiVGhyZXNob2xkcyIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgbW9kZWxfZGlyLCBtb2R1bGVfbmFtZSwgY2xhc3NfbmFtZSk6CiAgICAgICAgbW9kdWxlX2RpciA9IF9maW5kX21vZHVsZShtb2RlbF9kaXIsIG1vZHVsZV9uYW1lKQogICAgICAgIHNlbGYud29ya2luZ19kaXIgPSBvcy5wYXRoLmRpcm5hbWUobW9kdWxlX2RpcikKICAgICAgICBwcmludCgiV09SS0lORyIsIHNlbGYud29ya2luZ19kaXIpCiAgICAgICAgcHJpbnQoIk1PRFVMRSIsIG1vZHVsZV9kaXIpCiAgICAgICAgc2VsZi5tb2R1bGVfZGlyID0gb3MucGF0aC5iYXNlbmFtZShtb2R1bGVfZGlyKQogICAgICAgIHNlbGYubW9kdWxlX25hbWUgPSBtb2R1bGVfbmFtZQogICAgICAgIHNlbGYuY2xhc3NfbmFtZSA9IGNsYXNzX25hbWUKICAgICAgICBzZWxmLmluc3RhbmNlID0gTm9uZQogICAgICAgIHNlbGYudGhyZXNob2xkID0ge30KCiAgICBkZWYgY29udGV4dChmdW5jKToKICAgICAgICBkZWYgc3dpdGNoKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgICAgIGFic19wYXRoID0gb3MucGF0aC5hYnNwYXRoKHNlbGYud29ya2luZ19kaXIpCiAgICAgICAgICAgIHN5cy5wYXRoLmFwcGVuZChhYnNfcGF0aCkKICAgICAgICAgICAgY3dkID0gb3MuZ2V0Y3dkKCkKICAgICAgICAgICAgb3MuY2hkaXIoc2VsZi53b3JraW5nX2RpcikKICAgICAgICAgICAgZnVuYyhzZWxmLCAqYXJncywgKiprd2FyZ3MpCiAgICAgICAgICAgIG9zLmNoZGlyKGN3ZCkKICAgICAgICAgICAgc3lzLnBhdGgucmVtb3ZlKGFic19wYXRoKQoKICAgICAgICByZXR1cm4gc3dpdGNoCgogICAgQGNvbnRleHQKICAgIGRlZiBsb2FkKHNlbGYpOgogICAgICAgIG1vZGVsX2NsYXNzID0gX2xvYWRfbW9kZWwoc2VsZi5tb2R1bGVfZGlyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5tb2R1bGVfbmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuY2xhc3NfbmFtZSkKCiAgICAgICAgZm9yIGF0dHIgaW4gZGlyKEJhc2VNb2RlbEludGVyZmFjZSk6CiAgICAgICAgICAgIGlmIG5vdCBoYXNhdHRyKG1vZGVsX2NsYXNzLCBhdHRyKToKICAgICAgICAgICAgICAgIHJhaXNlIEltcG9ydEVycm9yKHNlbGYuY2xhc3NfbmFtZSArICIgZG9lcyBub3QgaGF2ZSAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArIHN0cihhdHRyKSArICIgYXR0cmlidXRlIikKICAgICAgICBzZWxmLmluc3RhbmNlID0gbW9kZWxfY2xhc3MoKQogICAgICAgIHNlbGYuaW5zdGFuY2UubG9hZCgpCgogICAgQGNvbnRleHQKICAgIGRlZiBzZXRfdGhyZXNob2xkKHNlbGYsIHBvc2l0aW9uLCB0aHJlc2hvbGQpOgogICAgICAgIGlmIHNlbGYuaW5zdGFuY2U6CiAgICAgICAgICAgIHNlbGYuaW5zdGFuY2Uuc2V0X3RocmVzaG9sZChwb3NpdGlvbiwgdGhyZXNob2xkKQoKICAgICAgICAgICAgdXBkYXRlZCA9IHNlbGYuaW5zdGFuY2UuZ2V0X3RocmVzaG9sZChwb3NpdGlvbikKICAgICAgICAgICAgaWYgdGhyZXNob2xkICE9IHVwZGF0ZWQ6CiAgICAgICAgICAgICAgICByYWlzZSBSdW50aW1lRXJyb3Ioc2VsZi5tb2R1bGVfbmFtZSArICIgZmFpbGVkIHRvIHVwZGF0ZSB0aHJlc2hvbGQiKQoKICAgICAgICAgICAgc2VsZi50aHJlc2hvbGRbcG9zaXRpb25dID0gdXBkYXRlZAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYudGhyZXNob2xkW3Bvc2l0aW9uXSA9IHRocmVzaG9sZAogICAgICAgICAgICBwcmludCgiV0FSTjogVGhyZXNob2xkIHNhdmVkLCBidXQgbW9kZWwgaXMgbm90IGxvYWRlZCBub3ciKQoKICAgIEBjb250ZXh0CiAgICBkZWYgZ2V0X3RocmVzaG9sZChzZWxmLCBwb3NpdGlvbik6CiAgICAgICAgcmV0dXJuIHNlbGYuaW5zdGFuY2UuZ2V0X3RocmVzaG9sZChwb3NpdGlvbikKCiAgICBkZWYgX19zdHJfXyhzZWxmKToKICAgICAgICByZXR1cm4gc3RyKHsKICAgICAgICAgICAgc2VsZi5DT05GSUdfRklMRTogc2VsZi5tb2R1bGVfbmFtZSwKICAgICAgICAgICAgc2VsZi5DT05GSUdfQ0xBU1M6IHNlbGYuY2xhc3NfbmFtZSwKICAgICAgICAgICAgc2VsZi5DT05GSUdfVEhSRVNIT0xEUzogc3RyKHNlbGYudGhyZXNob2xkKQogICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIgTWFrZSBhbiBhcmNoaXZlIGZvciBzcGVjaWZpZWQgbW9kZWwuCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgCiAgICAgICAgQXJnczoKICAgICAgICAgICAgZGVzdGluYXRpb246IAogICAgICAgICAgICBmaWxlbmFtZTogCiAgICAgICAgICAgIG1vZGVsX3N0b3JlOiAKICAgICAgICAgICAgbmFtZTogCiAgICAgICAgICAgIGV4dDogCgogICAgICAgIFJldHVybnM6CgogICAgICAgICIiIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgpjbGFzcyBCYXNlTW9kZWxJbnN0YW5jZShvYmplY3QpOgogICAgQ09ORklHX0ZJTEUgPSAiRW50cnkgRmlsZSBOYW1lIgogICAgQ09ORklHX0NMQVNTID0gIkVudHJ5IENsYXNzIE5hbWUiCiAgICBDT05GSUdfVEhSRVNIT0xEUyA9ICJUaHJlc2hvbGRzIgoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBtb2RlbF9kaXIsIG1vZHVsZV9uYW1lLCBjbGFzc19uYW1lKToKICAgICAgICBtb2R1bGVfZGlyID0gX2ZpbmRfbW9kdWxlKG1vZGVsX2RpciwgbW9kdWxlX25hbWUpCiAgICAgICAgc2VsZi53b3JraW5nX2RpciA9IG9zLnBhdGguZGlybmFtZShtb2R1bGVfZGlyKQogICAgICAgIHByaW50KCJXT1JLSU5HIiwgc2VsZi53b3JraW5nX2RpcikKICAgICAgICBwcmludCgiTU9EVUxFIiwgbW9kdWxlX2RpcikKICAgICAgICBzZWxmLm1vZHVsZV9kaXIgPSBvcy5wYXRoLmJhc2VuYW1lKG1vZHVsZV9kaXIpCiAgICAgICAgc2VsZi5tb2R1bGVfbmFtZSA9IG1vZHVsZV9uYW1lCiAgICAgICAgc2VsZi5jbGFzc19uYW1lID0gY2xhc3NfbmFtZQogICAgICAgIHNlbGYuaW5zdGFuY2UgPSBOb25lCiAgICAgICAgc2VsZi50aHJlc2hvbGQgPSB7fQoKICAgIGRlZiBjb250ZXh0KGZ1bmMpOgogICAgICAgIGRlZiBzd2l0Y2goc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICAgICAgYWJzX3BhdGggPSBvcy5wYXRoLmFic3BhdGgoc2VsZi53b3JraW5nX2RpcikKICAgICAgICAgICAgc3lzLnBhdGguYXBwZW5kKGFic19wYXRoKQogICAgICAgICAgICBjd2QgPSBvcy5nZXRjd2QoKQogICAgICAgICAgICBvcy5jaGRpcihzZWxmLndvcmtpbmdfZGlyKQogICAgICAgICAgICBmdW5jKHNlbGYsICphcmdzLCAqKmt3YXJncykKICAgICAgICAgICAgb3MuY2hkaXIoY3dkKQogICAgICAgICAgICBzeXMucGF0aC5yZW1vdmUoYWJzX3BhdGgpCgogICAgICAgIHJldHVybiBzd2l0Y2gKCiAgICBAY29udGV4dAogICAgZGVmIGxvYWQoc2VsZik6CiAgICAgICAgbW9kZWxfY2xhc3MgPSBfbG9hZF9tb2RlbChzZWxmLm1vZHVsZV9kaXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLm1vZHVsZV9uYW1lLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5jbGFzc19uYW1lKQoKICAgICAgICBmb3IgYXR0ciBpbiBkaXIoQmFzZU1vZGVsSW50ZXJmYWNlKToKICAgICAgICAgICAgaWYgbm90IGhhc2F0dHIobW9kZWxfY2xhc3MsIGF0dHIpOgogICAgICAgICAgICAgICAgcmFpc2UgSW1wb3J0RXJyb3Ioc2VsZi5jbGFzc19uYW1lICsgIiBkb2VzIG5vdCBoYXZlICIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICsgc3RyKGF0dHIpICsgIiBhdHRyaWJ1dGUiKQogICAgICAgIHNlbGYuaW5zdGFuY2UgPSBtb2RlbF9jbGFzcygpCiAgICAgICAgc2VsZi5pbnN0YW5jZS5sb2FkKCkKCiAgICBAY29udGV4dAogICAgZGVmIHNldF90aHJlc2hvbGQoc2VsZiwgcG9zaXRpb24sIHRocmVzaG9sZCk6CiAgICAgICAgaWYgc2VsZi5pbnN0YW5jZToKICAgICAgICAgICAgc2VsZi5pbnN0YW5jZS5zZXRfdGhyZXNob2xkKHBvc2l0aW9uLCB0aHJlc2hvbGQpCgogICAgICAgICAgICB1cGRhdGVkID0gc2VsZi5pbnN0YW5jZS5nZXRfdGhyZXNob2xkKHBvc2l0aW9uKQogICAgICAgICAgICBpZiB0aHJlc2hvbGQgIT0gdXBkYXRlZDoKICAgICAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcihzZWxmLm1vZHVsZV9uYW1lICsgIiBmYWlsZWQgdG8gdXBkYXRlIHRocmVzaG9sZCIpCgogICAgICAgICAgICBzZWxmLnRocmVzaG9sZFtwb3NpdGlvbl0gPSB1cGRhdGVkCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc2VsZi50aHJlc2hvbGRbcG9zaXRpb25dID0gdGhyZXNob2xkCiAgICAgICAgICAgIHByaW50KCJXQVJOOiBUaHJlc2hvbGQgc2F2ZWQsIGJ1dCBtb2RlbCBpcyBub3QgbG9hZGVkIG5vdyIpCgogICAgQGNvbnRleHQKICAgIGRlZiBnZXRfdGhyZXNob2xkKHNlbGYsIHBvc2l0aW9uKToKICAgICAgICByZXR1cm4gc2VsZi5pbnN0YW5jZS5nZXRfdGhyZXNob2xkKHBvc2l0aW9uKQoKICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiBzdHIoewogICAgICAgICAgICBzZWxmLkNPTkZJR19GSUxFOiBzZWxmLm1vZHVsZV9uYW1lLAogICAgICAgICAgICBzZWxmLkNPTkZJR19DTEFTUzogc2VsZi5jbGFzc19uYW1lLAogICAgICAgICAgICBzZWxmLkNPTkZJR19USFJFU0hPTERTOiBzdHIoc2VsZi50aHJlc2hvbGQpCiAgICAgICAgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGZpbmRfZmlsZShzdGFydF9wb2ludCwgZmlsZW5hbWUpOgogICAgZmlsZV9ob2xkZXIgPSBfZmluZF9maWxlKHN0YXJ0X3BvaW50LCBmaWxlbmFtZSkKICAgIGlmIGZpbGVfaG9sZGVyOgogICAgICAgIGZpbGVfaG9sZGVyID0gb3MucGF0aC5yZWxwYXRoKHN0YXJ0X3BvaW50LCBmaWxlX2hvbGRlcikKCiAgICByZXR1cm4gZmlsZV9ob2xkZXIKCg==</text>
+        <text encoding="base64">Y2xhc3MgQmFzZU1vZGVsSW5zdGFuY2Uob2JqZWN0KToKICAgIENPTkZJR19GSUxFID0gIkVudHJ5IEZpbGUgTmFtZSIKICAgIENPTkZJR19DTEFTUyA9ICJFbnRyeSBDbGFzcyBOYW1lIgogICAgQ09ORklHX1RIUkVTSE9MRFMgPSAiVGhyZXNob2xkcyIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgbW9kZWxfZGlyLCBtb2R1bGVfbmFtZSwgY2xhc3NfbmFtZSk6CiAgICAgICAgbW9kdWxlX2RpciA9IF9maW5kX21vZHVsZShtb2RlbF9kaXIsIG1vZHVsZV9uYW1lKQogICAgICAgIHNlbGYud29ya2luZ19kaXIgPSBvcy5wYXRoLmRpcm5hbWUobW9kdWxlX2RpcikKICAgICAgICBwcmludCgiV09SS0lORyIsIHNlbGYud29ya2luZ19kaXIpCiAgICAgICAgcHJpbnQoIk1PRFVMRSIsIG1vZHVsZV9kaXIpCiAgICAgICAgc2VsZi5tb2R1bGVfZGlyID0gb3MucGF0aC5iYXNlbmFtZShtb2R1bGVfZGlyKQogICAgICAgIHNlbGYubW9kdWxlX25hbWUgPSBtb2R1bGVfbmFtZQogICAgICAgIHNlbGYuY2xhc3NfbmFtZSA9IGNsYXNzX25hbWUKICAgICAgICBzZWxmLmluc3RhbmNlID0gTm9uZQogICAgICAgIHNlbGYudGhyZXNob2xkID0ge30KCiAgICBkZWYgY29udGV4dChmdW5jKToKICAgICAgICBkZWYgc3dpdGNoKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgICAgIGFic19wYXRoID0gb3MucGF0aC5hYnNwYXRoKHNlbGYud29ya2luZ19kaXIpCiAgICAgICAgICAgIHN5cy5wYXRoLmFwcGVuZChhYnNfcGF0aCkKICAgICAgICAgICAgY3dkID0gb3MuZ2V0Y3dkKCkKICAgICAgICAgICAgb3MuY2hkaXIoc2VsZi53b3JraW5nX2RpcikKICAgICAgICAgICAgZnVuYyhzZWxmLCAqYXJncywgKiprd2FyZ3MpCiAgICAgICAgICAgIG9zLmNoZGlyKGN3ZCkKICAgICAgICAgICAgc3lzLnBhdGgucmVtb3ZlKGFic19wYXRoKQoKICAgICAgICByZXR1cm4gc3dpdGNoCgogICAgQGNvbnRleHQKICAgIGRlZiBsb2FkKHNlbGYpOgogICAgICAgIG1vZGVsX2NsYXNzID0gX2xvYWRfbW9kZWwoc2VsZi5tb2R1bGVfZGlyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5tb2R1bGVfbmFtZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuY2xhc3NfbmFtZSkKCiAgICAgICAgZm9yIGF0dHIgaW4gZGlyKEJhc2VNb2RlbEludGVyZmFjZSk6CiAgICAgICAgICAgIGlmIG5vdCBoYXNhdHRyKG1vZGVsX2NsYXNzLCBhdHRyKToKICAgICAgICAgICAgICAgIHJhaXNlIEltcG9ydEVycm9yKHNlbGYuY2xhc3NfbmFtZSArICIgZG9lcyBub3QgaGF2ZSAiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArIHN0cihhdHRyKSArICIgYXR0cmlidXRlIikKICAgICAgICBzZWxmLmluc3RhbmNlID0gbW9kZWxfY2xhc3MoKQogICAgICAgIHNlbGYuaW5zdGFuY2UubG9hZCgpCgogICAgQGNvbnRleHQKICAgIGRlZiBzZXRfdGhyZXNob2xkKHNlbGYsIHBvc2l0aW9uLCB0aHJlc2hvbGQpOgogICAgICAgIGlmIHNlbGYuaW5zdGFuY2U6CiAgICAgICAgICAgIHNlbGYuaW5zdGFuY2Uuc2V0X3RocmVzaG9sZChwb3NpdGlvbiwgdGhyZXNob2xkKQoKICAgICAgICAgICAgdXBkYXRlZCA9IHNlbGYuaW5zdGFuY2UuZ2V0X3RocmVzaG9sZChwb3NpdGlvbikKICAgICAgICAgICAgaWYgdGhyZXNob2xkICE9IHVwZGF0ZWQ6CiAgICAgICAgICAgICAgICByYWlzZSBSdW50aW1lRXJyb3Ioc2VsZi5tb2R1bGVfbmFtZSArICIgZmFpbGVkIHRvIHVwZGF0ZSB0aHJlc2hvbGQiKQoKICAgICAgICAgICAgc2VsZi50aHJlc2hvbGRbcG9zaXRpb25dID0gdXBkYXRlZAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHNlbGYudGhyZXNob2xkW3Bvc2l0aW9uXSA9IHRocmVzaG9sZAogICAgICAgICAgICBwcmludCgiV0FSTjogVGhyZXNob2xkIHNhdmVkLCBidXQgbW9kZWwgaXMgbm90IGxvYWRlZCBub3ciKQoKICAgIEBjb250ZXh0CiAgICBkZWYgZ2V0X3RocmVzaG9sZChzZWxmLCBwb3NpdGlvbik6CiAgICAgICAgcmV0dXJuIHNlbGYuaW5zdGFuY2UuZ2V0X3RocmVzaG9sZChwb3NpdGlvbikKCiAgICBkZWYgX19zdHJfXyhzZWxmKToKICAgICAgICByZXR1cm4gc3RyKHsKICAgICAgICAgICAgc2VsZi5DT05GSUdfRklMRTogc2VsZi5tb2R1bGVfbmFtZSwKICAgICAgICAgICAgc2VsZi5DT05GSUdfQ0xBU1M6IHNlbGYuY2xhc3NfbmFtZSwKICAgICAgICAgICAgc2VsZi5DT05GSUdfVEhSRVNIT0xEUzogc3RyKHNlbGYudGhyZXNob2xkKQogICAgICAgIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGZpbGVuYW1lIGluIG9zLmxpc3RkaXIoc3RhcnRfcG9pbnQpOgogICAgICAgIHJldHVybiBzdGFydF9wb2ludAoKICAgIGZvciBmaWxlIGluIG9zLmxpc3RkaXIoc3RhcnRfcG9pbnQpOgogICAgICAgIG5leHRfc3RhcnQgPSBvcy5wYXRoLmpvaW4oc3RhcnRfcG9pbnQsIGZpbGUpCiAgICAgICAgaWYgb3MucGF0aC5pc2RpcihuZXh0X3N0YXJ0KToKICAgICAgICAgICAgcmVzID0gZmluZF9maWxlKG5leHRfc3RhcnQsIGZpbGVuYW1lKQogICAgICAgICAgICBpZiByZXM6CiAgICAgICAgICAgICAgICByZXR1cm4gcmVzCgogICAgcmV0dXJuIE5vbmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGVmIGZpbmRfZmlsZShzdGFydF9wb2ludCwgZmlsZW5hbWUpOgogICAgZmlsZV9ob2xkZXIgPSBfZmluZF9maWxlKHN0YXJ0X3BvaW50LCBmaWxlbmFtZSkKICAgIGlmIGZpbGVfaG9sZGVyOgogICAgICAgIGZpbGVfaG9sZGVyID0gb3MucGF0aC5yZWxwYXRoKHN0YXJ0X3BvaW50LCBmaWxlX2hvbGRlcikKCiAgICByZXR1cm4gZmlsZV9ob2xkZXIKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndvcmtpbmdfZGlyID0gX2ZpbmRfbW9kdWxlKCkK</text>
+        <text encoding="base64">ICAgIGlmIGZpbGVuYW1lIGluIG9zLmxpc3RkaXIoc3RhcnRfcG9pbnQpOgogICAgICAgIHJldHVybiBzdGFydF9wb2ludAoKICAgIGZvciBmaWxlIGluIG9zLmxpc3RkaXIoc3RhcnRfcG9pbnQpOgogICAgICAgIG5leHRfc3RhcnQgPSBvcy5wYXRoLmpvaW4oc3RhcnRfcG9pbnQsIGZpbGUpCiAgICAgICAgaWYgb3MucGF0aC5pc2RpcihuZXh0X3N0YXJ0KToKICAgICAgICAgICAgcmVzID0gZmluZF9maWxlKG5leHRfc3RhcnQsIGZpbGVuYW1lKQogICAgICAgICAgICBpZiByZXM6CiAgICAgICAgICAgICAgICByZXR1cm4gcmVzCgogICAgcmV0dXJuIE5vbmUK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1s6L1s6LCAvZw==</text>
