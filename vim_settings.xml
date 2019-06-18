@@ -90,8 +90,11 @@
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/util/constants.py" timestamp="1531118344733">
         <mark key="[" line="41" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/dlengine/mlinspector/__init__.py" timestamp="1560501977115">
-        <mark key="[" line="18" column="18" />
+      <file name="$USER_HOME$/Documents/dlengine/mlinspector/__init__.py" timestamp="1560847046916">
+        <mark key="[" line="73" column="13" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="60" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/temps/models/dino0711/BaseInspector.py" timestamp="1531313024705">
         <mark key="[" line="69" column="29" />
@@ -427,7 +430,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlcGxveWVkX3BhdGggPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxfZGlyID0gb3MuZW52aXJvbi5nZXQoY29uc3QuRU5WX1BBVEhfREVQTE9ZLCAnJykKICAgICAgICAgICAgY29uZl9kaXIgPSBvcy5lbnZpcm9uLmdldChjb25zdC5FTlZfUEFUSF9DT05GSUcsICcnKQogICAgICAgICAgICBnYXRld2F5LmdldF9pbnN0YW5jZShtb2RlbF9kaXI9bW9kZWxfZGlyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25mX2Rpcj1jb25mX2RpcikK</text>
       </register>
       <register name="-" type="4">
         <text>probabilityMapSize, probabilityMap, decisionRule]</text>
@@ -436,34 +439,34 @@
         <text>ver_path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBvcGVuKG9zLnBhdGguam9pbihtb2RlbF9wYXRoLCBqc29uX2ZpbGUpLCAncicpIGFzIGY6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxfZGlyID0gb3MuZW52aXJvbi5nZXQoY29uc3QuRU5WX1BBVEhfREVQTE9ZLCAnJykKICAgICAgICAgICAgY29uZl9kaXIgPSBvcy5lbnZpcm9uLmdldChjb25zdC5FTlZfUEFUSF9DT05GSUcsICcnKQogICAgICAgICAgICBnYXRld2F5LmdldF9pbnN0YW5jZShtb2RlbF9kaXI9bW9kZWxfZGlyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25mX2Rpcj1jb25mX2RpcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlcGxveWVkX3BhdGggPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxfZGlyID0gb3MuZW52aXJvbi5nZXQoY29uc3QuRU5WX1BBVEhfREVQTE9ZLCAnJykKICAgICAgICAgICAgY29uZl9kaXIgPSBvcy5lbnZpcm9uLmdldChjb25zdC5FTlZfUEFUSF9DT05GSUcsICcnKQogICAgICAgICAgICBnYXRld2F5LmdldF9pbnN0YW5jZShtb2RlbF9kaXI9bW9kZWxfZGlyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25mX2Rpcj1jb25mX2RpcikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGpzb25fc3RyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCAK</text>
+        <text encoding="base64">ICAgIGRlcGxveWVkX3BhdGggPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1NldHRpbmcge30nLmZvcm1hdCh2ZXJfcGF0aCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGpzb25fc3RyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9yIHZlciBpbiBvcy5saXN0ZGlyKHBhdGgpOgogICAgcGF0aF92ZXIgPSBvcy5wYXRoLmpvaW4ocGF0aCwgcGF0aF92ZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1NldHRpbmcge30nLmZvcm1hdCh2ZXJfcGF0aCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGF0aCA9ICcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bWV0YToKICBmaWx0ZXJzOgogICAgLSBrZXk6IG1vZGVsU2VyaWFsCiAgICAgIG5hbWU6IGlkZW50aWZpZXIK</text>
+        <text encoding="base64">Zm9yIHZlciBpbiBvcy5saXN0ZGlyKHBhdGgpOgogICAgcGF0aF92ZXIgPSBvcy5wYXRoLmpvaW4ocGF0aCwgcGF0aF92ZXIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGF0aCA9ICcnCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Zlcl9wYXRoL21vZGVsX3BhdGgvZw==</text>
