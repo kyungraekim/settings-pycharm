@@ -90,12 +90,6 @@
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/util/constants.py" timestamp="1531118344733">
         <mark key="[" line="41" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/dlengine/mlinspector/__init__.py" timestamp="1560847046916">
-        <mark key="[" line="73" column="13" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="60" column="0" />
-        <mark key="." line="78" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/temps/models/dino0711/BaseInspector.py" timestamp="1531313024705">
         <mark key="[" line="69" column="29" />
       </file>
@@ -429,11 +423,11 @@
       <jump line="19" column="37" filename="$USER_HOME$/Documents/dl-inspector-glasses/models/pb_to_json.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxfZGlyID0gb3MuZW52aXJvbi5nZXQoY29uc3QuRU5WX1BBVEhfREVQTE9ZLCAnJykKICAgICAgICAgICAgY29uZl9kaXIgPSBvcy5lbnZpcm9uLmdldChjb25zdC5FTlZfUEFUSF9DT05GSUcsICcnKQogICAgICAgICAgICBnYXRld2F5LmdldF9pbnN0YW5jZShtb2RlbF9kaXI9bW9kZWxfZGlyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25mX2Rpcj1jb25mX2RpcikK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>probabilityMapSize, probabilityMap, decisionRule]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ver_path</text>
