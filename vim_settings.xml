@@ -105,6 +105,9 @@
       <file name="$USER_HOME$/PycharmProjects/vips_emulator/launcher.py" timestamp="1526959102847">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/model/DAN/utility/anchor_manipulator.py" timestamp="1562302994876">
+        <mark key="'" line="21" column="20" />
+      </file>
       <file name="$USER_HOME$/Downloads/dl-server/src_dev/mock/mocks.py" timestamp="1530871856651">
         <mark key="[" line="0" column="0" />
       </file>
@@ -180,10 +183,6 @@
       </file>
       <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/dinoanomaly/BaseInspector.py" timestamp="1531657914538">
         <mark key="[" line="6" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/dl-inspector-glasses/mlinspector/engine/deploy.py" timestamp="1560499187798">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="74" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/dl-inspector-glasses/mlinspector/job/launch.py" timestamp="1560500019945">
         <mark key="'" line="189" column="0" />
@@ -328,16 +327,11 @@
       <file name="$USER_HOME$/Documents/testenv-model/models/dinomodel/classifier.py" timestamp="1531738340169">
         <mark key="[" line="33" column="24" />
       </file>
+      <file name="$USER_HOME$/model/DAN/train_sfd.py" timestamp="1562302910765">
+        <mark key="'" line="29" column="20" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/dlengine-METALDEV/temps/io_test.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/dlengine-METALDEV/temps/io_test.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/Documents/dlengine-METALDEV/temps/io_test.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/Documents/dlengine-METALDEV/temps/io_test.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/dlengine-METALDEV/temps/io_test.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/Documents/dlengine-METALDEV/temps/io_test.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/Documents/dlengine-METALDEV/temps/io_test.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Documents/dlengine-METALDEV/temps/io_test.py" />
       <jump line="38" column="0" filename="$USER_HOME$/Documents/dlengine-METALDEV/temps/io_test.py" />
       <jump line="41" column="0" filename="$USER_HOME$/Documents/dlengine-METALDEV/temps/io_test.py" />
       <jump line="44" column="0" filename="$USER_HOME$/Documents/dlengine-METALDEV/temps/io_test.py" />
@@ -430,6 +424,14 @@
       <jump line="5" column="0" filename="$USER_HOME$/Documents/dl-inspector-glasses/models/format.yaml" />
       <jump line="34" column="43" filename="$USER_HOME$/Documents/dl-inspector-glasses/models/pb_to_json.py" />
       <jump line="19" column="37" filename="$USER_HOME$/Documents/dl-inspector-glasses/models/pb_to_json.py" />
+      <jump line="30" column="23" filename="$USER_HOME$/model/DAN/train_sfd.py" />
+      <jump line="174" column="33" filename="$USER_HOME$/model/DAN/train_sfd.py" />
+      <jump line="29" column="20" filename="$USER_HOME$/model/DAN/train_sfd.py" />
+      <jump line="288" column="37" filename="$USER_HOME$/model/DAN/utility/anchor_manipulator.py" />
+      <jump line="290" column="40" filename="$USER_HOME$/model/DAN/utility/anchor_manipulator.py" />
+      <jump line="349" column="37" filename="$USER_HOME$/model/DAN/utility/anchor_manipulator.py" />
+      <jump line="351" column="40" filename="$USER_HOME$/model/DAN/utility/anchor_manipulator.py" />
+      <jump line="21" column="20" filename="$USER_HOME$/model/DAN/utility/anchor_manipulator.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -439,7 +441,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>ver_path</text>
+        <text>custom_op</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoJ0ZFQVNJQklMSVRZKSBib3VuZGluZyBib3g6ICVzJywgcmVjdCkK</text>
@@ -476,9 +478,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ver_path</last-search>
+      <last-search>custom_op</last-search>
       <last-offset />
-      <last-pattern>ver_path</last-pattern>
+      <last-pattern>custom_op</last-pattern>
       <last-replace>model_path</last-replace>
       <last-substitute>ver_path</last-substitute>
       <last-dir>1</last-dir>
@@ -486,8 +488,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self._pipelines</entry>
-        <entry encoding="base64">XChbWzpwcmludDpdXVwrXCk6IA==</entry>
         <entry>target_key</entry>
         <entry>self.__</entry>
         <entry>BatchProcessStruct</entry>
@@ -506,6 +506,8 @@
         <entry>sheet</entry>
         <entry>format_output</entry>
         <entry>ver_path</entry>
+        <entry>anchor_manipul</entry>
+        <entry>custom_op</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NlbGYuX19jb252L2NvbnYvZw==</entry>
