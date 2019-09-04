@@ -6,109 +6,114 @@
       <file name="/start_script.py" timestamp="1520567197705">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/testenv-model/models/dinomodel/BaseInspector.py" timestamp="1531736524591">
-        <mark key="[" line="89" column="24" />
-      </file>
-      <file name="/a.dummy" timestamp="1560497242005">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/Deliver.py" timestamp="1531214542726">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/vips-ml-inspector/temps/tester.py" timestamp="1527133333221">
+        <mark key="[" line="16" column="66" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/speedtest/callback_test.py" timestamp="1530613573886">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sr_repo/testenv-model/models/dinomodel/BaseInspector.py" timestamp="1531727760837">
-        <mark key="[" line="89" column="24" />
+      <file name="/a.dummy" timestamp="1560497242005">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dl-inspector-glasses/models/pb_to_json.py" timestamp="1560743844900">
+        <mark key="'" line="20" column="37" />
+        <mark key="[" line="16" column="13" />
+        <mark key="^" line="16" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/testenv-model/models/dinoanomaly/classifier.py" timestamp="1531738307005">
+        <mark key="[" line="31" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/vips-ml-inspector/front.py" timestamp="1526617418057">
         <mark key="[" line="18" column="66" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/speedtest/sync_test.py" timestamp="1530600705251">
+      <file name="$USER_HOME$/Documents/vips-ml-inspector/temps/engine_tester.py" timestamp="1527063624165">
+        <mark key="[" line="73" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/testenv-model/models/dinomodel/BaseInspector.py" timestamp="1531736524591">
+        <mark key="[" line="89" column="24" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/vips_emulator/answer_sheet.csv" timestamp="1526957810698">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/integrated/dinoinspector/classifier.py" timestamp="1531662647381">
+        <mark key="[" line="14" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/vips-ml-inspector-DINOPQC/temps/engine_tester.py" timestamp="1530867662260">
         <mark key="[" line="68" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/testenv-model/models/dinomodel/DinoInspector.py" timestamp="1531715373993">
-        <mark key="[" line="50" column="26" />
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/BatchScoreBoard.py" timestamp="1530790086181">
+        <mark key="[" line="22" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/testenv-model/models/dinomodel/libs/ops.py" timestamp="1531666425609">
-        <mark key="[" line="3" column="18" />
+      <file name="$USER_HOME$/Documents/testenv-model/models/dinomodel/classifier.py" timestamp="1531738340169">
+        <mark key="[" line="33" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/temps/models/dino_180713/demo.py" timestamp="1531529626918">
+        <mark key="[" line="52" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/vips-ml-inspector/util/constants.py" timestamp="1526608111659">
+        <mark key="[" line="46" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/task/parser.py" timestamp="1556454564886">
+        <mark key="'" line="105" column="12" />
+        <mark key="[" line="55" column="45" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dl-inspector-glasses/models_new/pb_to_json.py" timestamp="1560744225080">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dl-inspector-glasses/mlinspector/util/log.py" timestamp="1560772494154">
-        <mark key="[" line="12" column="60" />
-        <mark key="." line="12" column="19" />
+      <file name="$USER_HOME$/model/DAN/utility/anchor_manipulator.py" timestamp="1562302994876">
+        <mark key="'" line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/dlengine/mlinspector/engine/exposable/deployment.py" timestamp="1560497446931">
-        <mark key="[" line="0" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine/manifest.json" timestamp="1560501993299">
-        <mark key="[" line="12" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/temps/models/dino_180713/demo.py" timestamp="1531529626918">
-        <mark key="[" line="52" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/scoreboard/BatchScoreBoard.py" timestamp="1531211369695">
-        <mark key="[" line="76" column="37" />
-      </file>
-      <file name="$USER_HOME$/Downloads/dl-server/EdgeDL검증/src/constants.py" timestamp="1530868955119">
-        <mark key="[" line="7" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine/mlinspector/conf/format.yaml" timestamp="1560501532976">
-        <mark key="[" line="1" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/testenv-model/models/dinoanomaly/classifier.py" timestamp="1531738307005">
-        <mark key="[" line="31" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/vips-ml-inspector/util/Configuration.py" timestamp="1526627618708">
-        <mark key="[" line="43" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine/mlinspector/engine/exposable/execution.py" timestamp="1560498775714">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/bound/boundary/zmq.py" timestamp="1531301535353">
-        <mark key="[" line="18" column="15" />
-      </file>
-      <file name="$USER_HOME$/workspace/sfd/train.py" timestamp="1559879207866">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/vips_emulator/answer_sheet.csv" timestamp="1526957810698">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1544167648180">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/tests/controller/test_model.py" timestamp="1532166492303">
-        <mark key="[" line="44" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/util/constants.py" timestamp="1531118344733">
-        <mark key="[" line="41" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/temps/models/dino0711/BaseInspector.py" timestamp="1531313024705">
-        <mark key="[" line="69" column="29" />
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/task/container.py" timestamp="1556358667776">
+        <mark key="[" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/dl-inspector-glasses/models/3dglass/0.6/glass/inspector.py" timestamp="1560500974941">
         <mark key="[" line="244" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/dinoclassifier/libs/ops.py" timestamp="1531657307142">
-        <mark key="[" line="3" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/inference/structure.py" timestamp="1531302051882">
-        <mark key="[" line="12" column="46" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/vips_emulator/launcher.py" timestamp="1526959102847">
+      <file name="$USER_HOME$/PycharmProjects/vips_emulator/config.yaml" timestamp="1526958785878">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/model/DAN/utility/anchor_manipulator.py" timestamp="1562302994876">
-        <mark key="'" line="21" column="20" />
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/__init__.py" timestamp="1532175354952">
+        <mark key="[" line="40" column="25" />
       </file>
-      <file name="$USER_HOME$/Downloads/dl-server/src_dev/mock/mocks.py" timestamp="1530871856651">
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/resource/desc.py" timestamp="1555854324937">
+        <mark key="[" line="8" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/resource/data.py" timestamp="1555943861588">
+        <mark key="[" line="5" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/resource/input.py" timestamp="1555851913347">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/speedtest/sync_test.py" timestamp="1530600705251">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/sr_repo/testenv-model/test.py" timestamp="1531737035163">
+        <mark key="[" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/resource/config.py" timestamp="1555942163064">
+        <mark key="'" line="39" column="4" />
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="35" column="20" />
+        <mark key="^" line="35" column="20" />
+        <mark key="." line="35" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/dinoanomaly/BaseInspector.py" timestamp="1531657914538">
+        <mark key="[" line="6" column="7" />
+      </file>
+      <file name="/Python Console" timestamp="1565439426591">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/batch/BatchAggregator.py" timestamp="1530590357309">
+        <mark key="[" line="0" column="5" />
+      </file>
+      <file name="/fragment.py" timestamp="1544167648180">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dl-inspector-glasses/mlinspector/engine/model/inference.py" timestamp="1560494936160">
@@ -117,47 +122,160 @@
         <mark key="^" line="232" column="50" />
         <mark key="." line="232" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/DinoClassifier/classifier.py" timestamp="1531656357997">
-        <mark key="[" line="14" column="21" />
+      <file name="$USER_HOME$/Documents/dl-inspector-glasses/mlinspector/job/launch.py" timestamp="1560500019945">
+        <mark key="'" line="189" column="0" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="188" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/batch/BatchProgress.py" timestamp="1530582510215">
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/Documents/dl-inspector-glasses/mlinspector/controller/model.py" timestamp="1560837806880">
+        <mark key="[" line="220" column="19" />
+        <mark key="]" line="220" column="18" />
+        <mark key="^" line="220" column="18" />
+        <mark key="." line="220" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/dl-inspector-glasses/mlinspector/util/resource.py" timestamp="1560494823121">
+      <file name="$USER_HOME$/PycharmProjects/vips_emulator/launcher.py" timestamp="1526959102847">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/setup.py" timestamp="1531034213139">
-        <mark key="[" line="44" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/testenv-model/models/dinoanomaly/DinoAnomaly.py" timestamp="1531715343977">
-        <mark key="[" line="46" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/testenv-model/simul/context.py" timestamp="1544171771414">
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/Deliver.py" timestamp="1531214542726">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/vips-ml-inspector/util/constants.py" timestamp="1526608111659">
-        <mark key="[" line="46" column="28" />
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/job/context.py" timestamp="1532218225681">
+        <mark key="[" line="66" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/preprocess/batch.py" timestamp="1531579960264">
-        <mark key="[" line="6" column="23" />
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/conf/inspection.yaml" timestamp="1531211891579">
+        <mark key="[" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/logserver/Dockerfile" timestamp="1526618355335">
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/tests/controller/test_model.py" timestamp="1532166492303">
+        <mark key="[" line="44" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/sfd/train.py" timestamp="1559879207866">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/testenv-model/models/dinoclassifier/classifier.py" timestamp="1531738285572">
-        <mark key="[" line="34" column="20" />
+      <file name="$USER_HOME$/Documents/model_zip/dino/0713-orginal/demo.py" timestamp="1531722195887">
+        <mark key="[" line="29" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/sr_repo/testenv-model/models/dinoclassifier/BaseInspector.py" timestamp="1531727788424">
-        <mark key="[" line="76" column="24" />
+      <file name="$USER_HOME$/Documents/testenv-model/models/dinomodel/libs/ops.py" timestamp="1531666425609">
+        <mark key="[" line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/processing/task.py" timestamp="1555752993187">
+        <mark key="'" line="18" column="33" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="26" />
+        <mark key="^" line="17" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/testenv-model/models/dinomodel/DinoInspector.py" timestamp="1531715373993">
+        <mark key="[" line="50" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/dlengine/mlinspector/conf/format.yaml" timestamp="1560501532976">
+        <mark key="[" line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/Downloads/dl-server/src_dev/mock/mocks.py" timestamp="1530871856651">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/tests/util/test_constants.py" timestamp="1532167041408">
+        <mark key="[" line="7" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/vips-ml-inspector-DINOPQC/temps/engine_tester.yaml" timestamp="1530764146088">
         <mark key="[" line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/bound/boundary/zmq.py" timestamp="1531301535353">
+        <mark key="[" line="18" column="15" />
+      </file>
+      <file name="$USER_HOME$/Downloads/inspector.py" timestamp="1560992776022">
+        <mark key="[" line="287" column="69" />
+        <mark key="]" line="273" column="46" />
+        <mark key="^" line="273" column="55" />
+        <mark key="." line="273" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/testenv-model/models/dinoanomaly/DinoAnomaly.py" timestamp="1531715343977">
+        <mark key="[" line="46" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/android/cameraview-master/build.gradle" timestamp="1543415115134">
+        <mark key="[" line="16" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/sr_repo/testenv-model/models/dinoanomaly/BaseInspector.py" timestamp="1531727798333">
+        <mark key="[" line="90" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/testenv-model/models/dinoanomaly/BaseInspector.py" timestamp="1544161431020">
+        <mark key="[" line="31" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/testenv-model/simul/context.py" timestamp="1544171771414">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/testenv-model/models/dinoclassifier/BaseInspector.py" timestamp="1544161735345">
+        <mark key="[" line="45" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/dlengine/mlinspector/conf/engine.yaml" timestamp="1560492303085">
+        <mark key="[" line="20" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/util/constants.py" timestamp="1531118344733">
+        <mark key="[" line="41" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/data/container.py" timestamp="1553612594806">
+        <mark key="[" line="2" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/DinoClassifier/classifier.py" timestamp="1531656357997">
+        <mark key="[" line="14" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/testenv-model/models/dinoclassifier/classifier.py" timestamp="1531738285572">
+        <mark key="[" line="34" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/temps/io_test.py" timestamp="1532680801924">
+        <mark key="[" line="9" column="54" />
+      </file>
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/temps/models/dino0711/BaseInspector.py" timestamp="1531313024705">
+        <mark key="[" line="69" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/sfd/note.py" timestamp="1562202156274">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/sr_repo/testenv-model/models/dinomodel/BaseInspector.py" timestamp="1531727760837">
+        <mark key="[" line="89" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/dl-inspector-glasses/mlinspector/util/log.py" timestamp="1560772494154">
+        <mark key="[" line="12" column="60" />
+        <mark key="." line="12" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/bypass/event.py" timestamp="1531453613467">
+        <mark key="[" line="1" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/dlengine/manifest.json" timestamp="1560501993299">
+        <mark key="[" line="12" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/dinoanomaly/libs/ops.py" timestamp="1531657251175">
+        <mark key="[" line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/job/api.py" timestamp="1532175394852">
+        <mark key="[" line="69" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/inference/structure.py" timestamp="1531302051882">
+        <mark key="[" line="12" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/Dockerfile" timestamp="1531117700434">
+        <mark key="[" line="34" column="22" />
+      </file>
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/format/InspectionFormat.py" timestamp="1530673188132">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/sr_repo/testenv-model/test.py" timestamp="1531737035163">
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/temps/models/dino0711/demo.py" timestamp="1531367468784">
+        <mark key="[" line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/testenv-model/models/dinomodel/extract.py" timestamp="1531666357300">
+        <mark key="[" line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/dl-inspector-glasses/models/format.yaml" timestamp="1560501466049">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="36" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/dlengine/mlinspector/engine/exposable/execution.py" timestamp="1560498775714">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dlengine/mlinspector/engine/deploy.py" timestamp="1560500849059">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dlengine/mlinspector/job/launch.py" timestamp="1560500536572">
         <mark key="'" line="352" column="0" />
@@ -166,131 +284,81 @@
         <mark key="." line="352" column="0" />
         <mark key="^" line="352" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/scoreboard/BatchScoreBoard.py" timestamp="1531211369695">
+        <mark key="[" line="76" column="37" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/logserver/Dockerfile" timestamp="1526618355335">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/processing/filter.py" timestamp="1555854451926">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="58" column="3" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/vips-ml-inspector/temps/DinoInspector.py" timestamp="1526524369904">
+        <mark key="[" line="38" column="57" />
+      </file>
+      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/dinoclassifier/libs/ops.py" timestamp="1531657307142">
+        <mark key="[" line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/dinoclassifier/DinoClassifier.py" timestamp="1531661964344">
+        <mark key="[" line="41" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/batch/BatchProgress.py" timestamp="1530582510215">
+        <mark key="[" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/vips-ml-inspector-DINOPQC/engine_tester.yaml" timestamp="1530867499639">
+        <mark key="[" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/test.py" timestamp="1555943638671">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/bypass/data.py" timestamp="1532221662118">
+        <mark key="[" line="19" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/integrated/dinoinspector/libs/ops.py" timestamp="1531662601587">
+        <mark key="[" line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/dl-inspector-glasses/rsc_util.py" timestamp="1560492331972">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/resource/symbol.py" timestamp="1555852212429">
+        <mark key="'" line="2" column="18" />
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/format/builder.py" timestamp="1553613482951">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/sr_repo/testenv-model/models/dinoclassifier/BaseInspector.py" timestamp="1531727788424">
+        <mark key="[" line="76" column="24" />
+      </file>
+      <file name="$USER_HOME$/model/DAN/train_sfd.py" timestamp="1562302910765">
+        <mark key="'" line="29" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/vips-ml-inspector/temps/BaseInspector.py" timestamp="1526630706683">
+        <mark key="[" line="65" column="53" />
+      </file>
+      <file name="$USER_HOME$/workspace/sfd/README.md" timestamp="1559530086604">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/dl-server/EdgeDL검증/src/constants.py" timestamp="1530868955119">
+        <mark key="[" line="7" column="24" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/vips_emulator/sender.py" timestamp="1526625738628">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/vips-ml-inspector/conf/sinks.yaml" timestamp="1528422261256">
         <mark key="[" line="3" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/integrated/dinoinspector/libs/ops.py" timestamp="1531662601587">
-        <mark key="[" line="3" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/tests/util/test_constants.py" timestamp="1532167041408">
-        <mark key="[" line="7" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/temps/models/dino0711/demo.py" timestamp="1531367468784">
-        <mark key="[" line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/dinoanomaly/BaseInspector.py" timestamp="1531657914538">
-        <mark key="[" line="6" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/dl-inspector-glasses/mlinspector/job/launch.py" timestamp="1560500019945">
-        <mark key="'" line="189" column="0" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="188" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/dinoclassifier/demo.py" timestamp="1531657344772">
-        <mark key="[" line="9" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/dinoclassifier/DinoClassifier.py" timestamp="1531661964344">
-        <mark key="[" line="41" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/job/context.py" timestamp="1532218225681">
-        <mark key="[" line="66" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine/mlinspector/engine/deploy.py" timestamp="1560500849059">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/temps/io_test.py" timestamp="1532680801924">
-        <mark key="[" line="9" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/testenv-model/models/dinoclassifier/BaseInspector.py" timestamp="1544161735345">
-        <mark key="[" line="45" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/dl-inspector-glasses/models/format.yaml" timestamp="1560501466049">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="36" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/dinoanomaly/extract.py" timestamp="1531657983156">
-        <mark key="[" line="2" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/dl-inspector-glasses/change_target.py" timestamp="1561000516390">
-        <mark key="[" line="40" column="26" />
-        <mark key="]" line="40" column="26" />
-        <mark key="." line="40" column="26" />
-        <mark key="^" line="40" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/vips-ml-inspector/temps/BaseInspector.py" timestamp="1526630706683">
-        <mark key="[" line="65" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/AsyncBatchInjector.py" timestamp="1530757819500">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/integrated/dinoinspector/classifier.py" timestamp="1531662647381">
-        <mark key="[" line="14" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/bypass/data.py" timestamp="1532221662118">
-        <mark key="[" line="19" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/sr_repo/testenv-model/models/dinoanomaly/BaseInspector.py" timestamp="1531727798333">
-        <mark key="[" line="90" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine/mlinspector/conf/engine.yaml" timestamp="1560492303085">
-        <mark key="[" line="20" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/Dockerfile" timestamp="1531117700434">
-        <mark key="[" line="34" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/sfd/note.py" timestamp="1562202156274">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/conf/inspection.yaml" timestamp="1531211891579">
-        <mark key="[" line="1" column="11" />
-      </file>
-      <file name="$USER_HOME$/Downloads/inspector.py" timestamp="1560992776022">
-        <mark key="[" line="287" column="69" />
-        <mark key="]" line="273" column="46" />
-        <mark key="^" line="273" column="55" />
-        <mark key="." line="273" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/BatchScoreBoard.py" timestamp="1530790086181">
-        <mark key="[" line="22" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/vips-ml-inspector/temps/tester.py" timestamp="1527133333221">
-        <mark key="[" line="16" column="66" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/batch/BatchAggregator.py" timestamp="1530590357309">
-        <mark key="[" line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/testenv-model/models/dinomodel/extract.py" timestamp="1531666357300">
-        <mark key="[" line="2" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/vips-ml-inspector/temps/DinoInspector.py" timestamp="1526524369904">
-        <mark key="[" line="38" column="57" />
-      </file>
-      <file name="$USER_HOME$/Documents/testenv-model/models/dinoanomaly/BaseInspector.py" timestamp="1544161431020">
-        <mark key="[" line="31" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/bypass/event.py" timestamp="1531453613467">
-        <mark key="[" line="1" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/dl-inspector-glasses/models/pb_to_json.py" timestamp="1560743844900">
-        <mark key="'" line="20" column="37" />
-        <mark key="[" line="16" column="13" />
-        <mark key="^" line="16" column="9" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/vips_emulator/config.yaml" timestamp="1526958785878">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/vips-ml-inspector/temps/engine_tester.py" timestamp="1527063624165">
-        <mark key="[" line="73" column="32" />
-      </file>
-      <file name="$USER_HOME$/workspace/openai-gym-policy-gradient/policy_gradient_layers.py" timestamp="1567509960439" />
-      <file name="$USER_HOME$/Documents/vips-ml-inspector-DINOPQC/engine_tester.yaml" timestamp="1530867499639">
-        <mark key="[" line="0" column="14" />
       </file>
       <file name="/Dummy.txt" timestamp="1560503126048">
         <mark key="'" line="0" column="9" />
@@ -298,38 +366,46 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/job/api.py" timestamp="1532175394852">
-        <mark key="[" line="69" column="16" />
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/format/filter.py" timestamp="1553864145391">
+        <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/model_zip/dino/0713-orginal/demo.py" timestamp="1531722195887">
-        <mark key="[" line="29" column="72" />
+      <file name="$USER_HOME$/workspace/repos/pypractice/data_formatting/resource/frame.py" timestamp="1556339573791">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="70" />
+        <mark key="." line="7" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/dinoanomaly/libs/ops.py" timestamp="1531657251175">
-        <mark key="[" line="3" column="5" />
+      <file name="$USER_HOME$/Documents/dl-inspector-glasses/change_target.py" timestamp="1561000516390">
+        <mark key="[" line="40" column="26" />
+        <mark key="]" line="40" column="26" />
+        <mark key="." line="40" column="26" />
+        <mark key="^" line="40" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/sfd/README.md" timestamp="1559530086604">
+      <file name="$USER_HOME$/Documents/dl-inspector-glasses/mlinspector/util/resource.py" timestamp="1560494823121">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/__init__.py" timestamp="1532175354952">
-        <mark key="[" line="40" column="25" />
+      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/dinoclassifier/demo.py" timestamp="1531657344772">
+        <mark key="[" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/dl-inspector-glasses/rsc_util.py" timestamp="1560492331972">
+      <file name="$USER_HOME$/Documents/vips-ml-inspector/util/Configuration.py" timestamp="1526627618708">
+        <mark key="[" line="43" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/dlengine/mlinspector/engine/exposable/deployment.py" timestamp="1560497446931">
+        <mark key="[" line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/preprocess/batch.py" timestamp="1531579960264">
+        <mark key="[" line="6" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/setup.py" timestamp="1531034213139">
+        <mark key="[" line="44" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/model_zip/model/dslab-revised-dino-0713/separated/dinoanomaly/extract.py" timestamp="1531657983156">
+        <mark key="[" line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/pipeline/AsyncBatchInjector.py" timestamp="1530757819500">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dlengine-METALDEV/mlinspector/engine/sevtpostprocess/sevt_count.py" timestamp="1531725167285">
         <mark key="[" line="10" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/dl-inspector-glasses/mlinspector/controller/model.py" timestamp="1560837806880">
-        <mark key="[" line="220" column="19" />
-        <mark key="]" line="220" column="18" />
-        <mark key="^" line="220" column="18" />
-        <mark key="." line="220" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/testenv-model/models/dinomodel/classifier.py" timestamp="1531738340169">
-        <mark key="[" line="33" column="24" />
-      </file>
-      <file name="$USER_HOME$/model/DAN/train_sfd.py" timestamp="1562302910765">
-        <mark key="'" line="29" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -489,48 +565,24 @@
     </search>
     <history>
       <history-search>
-        <entry>target_key</entry>
-        <entry>self.__</entry>
-        <entry>BatchProcessStruct</entry>
-        <entry>True</entry>
-        <entry>False</entry>
-        <entry encoding="base64">XChtb2RlbF9pbmZvXClbWzpwcmludDpdXSA9IA==</entry>
-        <entry encoding="base64">XChtb2RlbF9pbmZvXClbWzpwcmludDpdXVwrID0g</entry>
-        <entry>self</entry>
-        <entry>BoundStruct</entry>
-        <entry>Queue</entry>
-        <entry>Process</entry>
-        <entry>[:/[:, /g</entry>
-        <entry>dict</entry>
-        <entry>dict(</entry>
-        <entry>format</entry>
-        <entry>sheet</entry>
-        <entry>format_output</entry>
-        <entry>ver_path</entry>
-        <entry>anchor_manipul</entry>
-        <entry>custom_op</entry>
+        <entry>orient</entry>
+        <entry>print(\([[:print:]]\+\))</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry>.length</entry>
+        <entry>\&quot;</entry>
+        <entry>raw</entry>
+        <entry>object</entry>
+        <entry>dict_desc</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3NlbGYuX19jb252L2NvbnYvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL3NlbGYuW19dXCtjb252L2NvbnYvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL3NlbGYuX2NvbnYvY29udi9n</entry>
-        <entry encoding="base64">JzwsJz5zL2ZfaW4vZmlsZV9pby9n</entry>
-        <entry encoding="base64">JzwsJz5zL1woW1s6cHJpbnQ6XV1cK1wpOiAvIlwxIjogL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL3RhcmdldF9rZXkvZGVjaXNpb25fa2V5L2c=</entry>
-        <entry>%s/self.__/self._/g</entry>
-        <entry>%s/BatchProcessStruct/ProcessStruct/g</entry>
-        <entry>%s/True/'OK'/g</entry>
-        <entry>%s/False/'NG'/g</entry>
-        <entry>w</entry>
-        <entry encoding="base64">JzwsJz5zL1wobW9kZWxfaW5mb1wpW1s6cHJpbnQ6XV0gPSAvXDEuYXBwZW5kKC9n</entry>
-        <entry encoding="base64">JzwsJz5zL1wobW9kZWxfaW5mb1wpW1s6cHJpbnQ6XV1cKyA9IC9cMS5hcHBlbmQoL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL3NlbGYvY2xzL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL0JvdW5kU3RydWN0L1N5bmNCb3VuZFN0cnVjdC9n</entry>
-        <entry encoding="base64">JzwsJz4lcy9RdWV1ZS9xdWV1ZS5RdWV1ZS9n</entry>
-        <entry encoding="base64">JzwsJz5zL1F1ZXVlL3F1ZXVlLlF1ZXVlL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL1Byb2Nlc3MvU3luY1Byb2Nlc3MvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL1s6L1s6LCAvZw==</entry>
-        <entry encoding="base64">JzwsJz5zL3Zlcl9wYXRoL21vZGVsX3BhdGgvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3ByaW50KFwoW1s6cHJpbnQ6XV1cK1wpKS90ZXN0LmFwcGVuZChcMSkvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLy5sZW5ndGgvLnRvdGFsL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL1wiL1wnL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3Jhdy9ncm91cC9n</entry>
+        <entry encoding="base64">JzwsJz5zL3Jhdy9jbGFzc2lmaWVyL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3Jhdy9kYXRhL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL29iamVjdC9CYXNlUGFyc2VyL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2RpY3RfZGVzYy9vcHRpb24vZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -539,29 +591,23 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed 2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed M</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>shift ctrl pressed 2</text>
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>shift ctrl pressed 6</text>
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed D</text>
@@ -569,20 +615,35 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Y</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
