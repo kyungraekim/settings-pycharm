@@ -1,0 +1,8 @@
+<keymap version="1" name="VSCode copy" parent="VSCode">
+  <action id="Diff.NextChange">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
+</keymap>
