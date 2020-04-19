@@ -23,6 +23,7 @@
         <entry encoding="base64">JzwsJz5zL3Jhdy9kYXRhL2c=</entry>
         <entry encoding="base64">JzwsJz5zL29iamVjdC9CYXNlUGFyc2VyL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2RpY3RfZGVzYy9vcHRpb24vZw==</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -324,7 +325,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL3Zlcl9wYXRoL21vZGVsX3BhdGgvZw==</text>
+        <text>q!</text>
       </register>
     </registers>
   </component>
