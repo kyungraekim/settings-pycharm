@@ -114,7 +114,7 @@
       <file name="$USER_HOME$/workspace/deeplearning/ma-sls/util/config.py" timestamp="1590460569157">
         <mark key="[" line="27" column="12" />
       </file>
-      <file name="/Python Console" timestamp="1565439426591">
+      <file name="/Python Console" timestamp="1590472944340">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dlengine/mlinspector/conf/format.yaml" timestamp="1560501532976">
@@ -125,8 +125,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/actor-list.yaml" timestamp="1590458197002">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/actor-list.yaml" timestamp="1590472978167">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="2" />
+        <mark key="." line="11" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/dl-inspector-glasses/models/pb_to_json.py" timestamp="1560743844900">
         <mark key="'" line="20" column="37" />
@@ -170,19 +173,16 @@
       <file name="$USER_HOME$/workspace/repos/seed_rl/agents/sac/learner.py" timestamp="1587275635539">
         <mark key="'" line="401" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/exec/actor.py" timestamp="1590473027062">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/repos/pypractice/toy_db/connector/abstract_ops.py" timestamp="1571756898341">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dl-inspector-glasses/models/format.yaml" timestamp="1560501466049">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="36" column="6" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/Documents/dlengine-METALDEV/temps/io_test.py" />
       <jump line="44" column="0" filename="$USER_HOME$/Documents/dlengine-METALDEV/temps/io_test.py" />
       <jump line="58" column="0" filename="$USER_HOME$/Documents/dlengine-METALDEV/temps/io_test.py" />
       <jump line="65" column="0" filename="$USER_HOME$/Documents/dlengine-METALDEV/temps/io_test.py" />
@@ -282,12 +282,13 @@
       <jump line="351" column="40" filename="$USER_HOME$/model/DAN/utility/anchor_manipulator.py" />
       <jump line="21" column="20" filename="$USER_HOME$/model/DAN/utility/anchor_manipulator.py" />
       <jump line="401" column="22" filename="$USER_HOME$/workspace/repos/seed_rl/agents/sac/learner.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/deeplearning/ma-sls/actor-list.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCgo=</text>
+        <text encoding="base64">YWN0b3JzOgo=</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -299,31 +300,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoJ0ZFQVNJQklMSVRZKSBib3VuZGluZyBib3g6ICVzJywgcmVjdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCgo=</text>
+        <text encoding="base64">YWN0b3JzOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZl9faW5pdF9fKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxfZGlyID0gb3MuZW52aXJvbi5nZXQoY29uc3QuRU5WX1BBVEhfREVQTE9ZLCAnJykKICAgICAgICAgICAgY29uZl9kaXIgPSBvcy5lbnZpcm9uLmdldChjb25zdC5FTlZfUEFUSF9DT05GSUcsICcnKQogICAgICAgICAgICBnYXRld2F5LmdldF9pbnN0YW5jZShtb2RlbF9kaXI9bW9kZWxfZGlyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25mX2Rpcj1jb25mX2RpcikK</text>
+        <text encoding="base64">ICAgIGRlZl9faW5pdF9fKHNlbGYpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxfZGlyID0gb3MuZW52aXJvbi5nZXQoY29uc3QuRU5WX1BBVEhfREVQTE9ZLCAnJykKICAgICAgICAgICAgY29uZl9kaXIgPSBvcy5lbnZpcm9uLmdldChjb25zdC5FTlZfUEFUSF9DT05GSUcsICcnKQogICAgICAgICAgICBnYXRld2F5LmdldF9pbnN0YW5jZShtb2RlbF9kaXI9bW9kZWxfZGlyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25mX2Rpcj1jb25mX2RpcikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlcGxveWVkX3BhdGggPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGpzb25fc3RyKQo=</text>
+        <text encoding="base64">ICAgIGRlcGxveWVkX3BhdGggPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGpzb25fc3RyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1NldHRpbmcge30nLmZvcm1hdCh2ZXJfcGF0aCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1NldHRpbmcge30nLmZvcm1hdCh2ZXJfcGF0aCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
