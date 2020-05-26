@@ -111,8 +111,11 @@
         <mark key="." line="40" column="26" />
         <mark key="^" line="40" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/util/config.py" timestamp="1590460569157">
-        <mark key="[" line="27" column="12" />
+      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/util/config.py" timestamp="1590474229551">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/Python Console" timestamp="1590472944340">
         <mark key="[" line="0" column="0" />
@@ -142,8 +145,11 @@
         <mark key="^" line="220" column="18" />
         <mark key="." line="220" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/ma-trainer.py" timestamp="1590457985733">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/ma-trainer.py" timestamp="1590474152462">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="50" />
+        <mark key="." line="9" column="49" />
+        <mark key="^" line="9" column="50" />
       </file>
       <file name="$USER_HOME$/model/DAN/utility/anchor_manipulator.py" timestamp="1562302994876">
         <mark key="'" line="21" column="20" />
@@ -288,7 +294,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YWN0b3JzOgo=</text>
+        <text encoding="base64">ZnJvbSB1dGlsLmNvbmZpZyBpbXBvcnQgcmVhZF9hY3RvcnMK</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -300,31 +306,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5sb2dnZXIuZGVidWcoJ0ZFQVNJQklMSVRZKSBib3VuZGluZyBib3g6ICVzJywgcmVjdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWN0b3JzOgo=</text>
+        <text encoding="base64">ZnJvbSB1dGlsLmNvbmZpZyBpbXBvcnQgcmVhZF9hY3RvcnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCgo=</text>
+        <text encoding="base64">YWN0b3JzOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZl9faW5pdF9fKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxfZGlyID0gb3MuZW52aXJvbi5nZXQoY29uc3QuRU5WX1BBVEhfREVQTE9ZLCAnJykKICAgICAgICAgICAgY29uZl9kaXIgPSBvcy5lbnZpcm9uLmdldChjb25zdC5FTlZfUEFUSF9DT05GSUcsICcnKQogICAgICAgICAgICBnYXRld2F5LmdldF9pbnN0YW5jZShtb2RlbF9kaXI9bW9kZWxfZGlyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25mX2Rpcj1jb25mX2RpcikK</text>
+        <text encoding="base64">ICAgIGRlZl9faW5pdF9fKHNlbGYpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxfZGlyID0gb3MuZW52aXJvbi5nZXQoY29uc3QuRU5WX1BBVEhfREVQTE9ZLCAnJykKICAgICAgICAgICAgY29uZl9kaXIgPSBvcy5lbnZpcm9uLmdldChjb25zdC5FTlZfUEFUSF9DT05GSUcsICcnKQogICAgICAgICAgICBnYXRld2F5LmdldF9pbnN0YW5jZShtb2RlbF9kaXI9bW9kZWxfZGlyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25mX2Rpcj1jb25mX2RpcikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlcGxveWVkX3BhdGggPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGpzb25fc3RyKQo=</text>
+        <text encoding="base64">ICAgIGRlcGxveWVkX3BhdGggPSAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGpzb25fc3RyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1NldHRpbmcge30nLmZvcm1hdCh2ZXJfcGF0aCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCAK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
