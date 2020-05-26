@@ -111,6 +111,9 @@
         <mark key="." line="40" column="26" />
         <mark key="^" line="40" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/util/config.py" timestamp="1590458692496">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1565439426591">
         <mark key="[" line="0" column="0" />
       </file>
@@ -122,6 +125,9 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/actor-list.yaml" timestamp="1590458197002">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dl-inspector-glasses/models/pb_to_json.py" timestamp="1560743844900">
         <mark key="'" line="20" column="37" />
         <mark key="[" line="16" column="13" />
@@ -132,6 +138,9 @@
         <mark key="]" line="220" column="18" />
         <mark key="^" line="220" column="18" />
         <mark key="." line="220" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/ma-trainer.py" timestamp="1590457985733">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/model/DAN/utility/anchor_manipulator.py" timestamp="1562302994876">
         <mark key="'" line="21" column="20" />
@@ -152,9 +161,6 @@
         <mark key="[" line="12" column="60" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/dl-inspector-glasses/models/3dglass/0.6/glass/inspector.py" timestamp="1560500974941">
-        <mark key="[" line="244" column="34" />
-      </file>
       <file name="/" timestamp="1587052423814">
         <mark key="[" line="0" column="0" />
       </file>
@@ -173,11 +179,6 @@
         <mark key="'" line="5" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="36" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/dlengine/mlinspector/engine/deploy.py" timestamp="1560500849059">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
       </file>
     </filemarks>
     <jumps>
