@@ -102,20 +102,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/opt/anaconda3/envs/pypractice/lib/python3.7/site-packages/stable_baselines/sac/sac.py" timestamp="1590688013254">
-        <mark key="'" line="355" column="8" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="13" column="35" />
-      </file>
       <file name="$USER_HOME$/workspace/repos/seed-rl/seed_rl/agents/sac/learner.py" timestamp="1590482554287">
         <mark key="'" line="526" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/util/config.py" timestamp="1590479071471">
-        <mark key="[" line="48" column="29" />
-        <mark key="]" line="48" column="4" />
-        <mark key="." line="48" column="4" />
-      </file>
-      <file name="/Python Console" timestamp="1590472944340">
+      <file name="/Python Console" timestamp="1591220038814">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1591216433109">
@@ -123,6 +113,48 @@
       </file>
       <file name="$USER_HOME$/workspace/deeplearning/ma-sls/learner.py" timestamp="1590479219988">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/ma-trainer.py" timestamp="1591219633302">
+        <mark key="[" line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/dict_to_json.py" timestamp="1590479812687">
+        <mark key="'" line="31" column="4" />
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="25" column="30" />
+        <mark key="^" line="25" column="30" />
+        <mark key="." line="25" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/env_util/__init__.py" timestamp="1591219647000">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/util/__init__.py" timestamp="1590479409147">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/exec/learner.py" timestamp="1590479340839">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/env_util/kr_env.py" timestamp="1591219819757">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="23" column="20" />
+      </file>
+      <file name="$USER_HOME$/opt/anaconda3/envs/pypractice/lib/python3.7/site-packages/stable_baselines/sac/sac.py" timestamp="1590688013254">
+        <mark key="'" line="355" column="8" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/util/config.py" timestamp="1590479071471">
+        <mark key="[" line="48" column="29" />
+        <mark key="]" line="48" column="4" />
+        <mark key="." line="48" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/deeplearning/ma-sls/actor-list.yaml" timestamp="1590472978167">
         <mark key="'" line="3" column="0" />
@@ -135,44 +167,13 @@
         <mark key="]" line="96" column="101" />
         <mark key="^" line="93" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/ma-trainer.py" timestamp="1591219282007">
-        <mark key="]" line="27" column="21" />
-        <mark key="." line="27" column="20" />
-        <mark key="^" line="27" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/dict_to_json.py" timestamp="1590479812687">
-        <mark key="'" line="31" column="4" />
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="25" column="30" />
-        <mark key="^" line="25" column="30" />
-        <mark key="." line="25" column="29" />
-      </file>
-      <file name="/" timestamp="1587052423814">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/util/__init__.py" timestamp="1590479409147">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/repos/seed_rl/agents/sac/learner.py" timestamp="1587275635539">
-        <mark key="'" line="401" column="22" />
-      </file>
       <file name="$USER_HOME$/workspace/deeplearning/ma-sls/exec/actor.py" timestamp="1591216517058">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/exec/learner.py" timestamp="1590479340839">
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="31" />
-        <mark key="^" line="0" column="35" />
-      </file>
-      <file name="$USER_HOME$/workspace/repos/pypractice/toy_db/connector/abstract_ops.py" timestamp="1571756898341">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/env_util/env_handler.py" timestamp="1591219880287">
+        <mark key="[" line="90" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/deeplearning/ma-sls/exec/env_handler.py" timestamp="1591218834170">
         <mark key="[" line="34" column="0" />
@@ -292,10 +293,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmZvWyd0ZXJtaW5hbF9vYnNlcnZhdGlvbiddID0gb2JzZXJ2YXRpb24K</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnd2FrZSB1cCcpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>VecEnv</text>
+        <text>trainer</text>
       </register>
       <register name="/" type="4">
         <text>=[[:print:]]\+,</text>
@@ -304,31 +305,31 @@
         <text encoding="base64">ICAgIGRlZiBnZXRhdHRyX2RlcHRoX2NoZWNrKHNlbGYsIG5hbWUsIGFscmVhZHlfZm91bmQpOgogICAgICAgICIiIkNoZWNrIGlmIGFuIGF0dHJpYnV0ZSByZWZlcmVuY2UgaXMgYmVpbmcgaGlkZGVuIGluIGEgcmVjdXJzaXZlIGNhbGwgdG8gX19nZXRhdHRyX18KCiAgICAgICAgOnBhcmFtIG5hbWU6IChzdHIpIG5hbWUgb2YgYXR0cmlidXRlIHRvIGNoZWNrIGZvcgogICAgICAgIDpwYXJhbSBhbHJlYWR5X2ZvdW5kOiAoYm9vbCkgd2hldGhlciB0aGlzIGF0dHJpYnV0ZSBoYXMgYWxyZWFkeSBiZWVuIGZvdW5kIGluIGEgd3JhcHBlcgogICAgICAgIDpyZXR1cm46IChzdHIgb3IgTm9uZSkgbmFtZSBvZiBtb2R1bGUgd2hvc2UgYXR0cmlidXRlIGlzIGJlaW5nIHNoYWRvd2VkLCBpZiBhbnkuCiAgICAgICAgIiIiCiAgICAgICAgaWYgaGFzYXR0cihzZWxmLCBuYW1lKSBhbmQgYWxyZWFkeV9mb3VuZDoKICAgICAgICAgICAgcmV0dXJuICJ7MH0uezF9Ii5mb3JtYXQodHlwZShzZWxmKS5fX21vZHVsZV9fLCB0eXBlKHNlbGYpLl9fbmFtZV9fKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBOb25lCgogICAgZGVmIF9nZXRfaW5kaWNlcyhzZWxmLCBpbmRpY2VzKToKICAgICAgICAiIiIKICAgICAgICBDb252ZXJ0IGEgZmxleGlibHktdHlwZWQgcmVmZXJlbmNlIHRvIGVudmlyb25tZW50IGluZGljZXMgdG8gYW4gaW1wbGllZCBsaXN0IG9mIGluZGljZXMuCgogICAgICAgIDpwYXJhbSBpbmRpY2VzOiAoTm9uZSxpbnQsSXRlcmFibGUpIHJlZmVycyB0byBpbmRpY2VzIG9mIGVudnMuCiAgICAgICAgOnJldHVybjogKGxpc3QpIHRoZSBpbXBsaWVkIGxpc3Qgb2YgaW5kaWNlcy4KICAgICAgICAiIiIKICAgICAgICBpZiBpbmRpY2VzIGlzIE5vbmU6CiAgICAgICAgICAgIGluZGljZXMgPSByYW5nZShzZWxmLm51bV9lbnZzKQogICAgICAgIGVsaWYgaXNpbnN0YW5jZShpbmRpY2VzLCBpbnQpOgogICAgICAgICAgICBpbmRpY2VzID0gW2luZGljZXNdCiAgICAgICAgcmV0dXJuIGluZGljZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmZvWyd0ZXJtaW5hbF9vYnNlcnZhdGlvbiddID0gb2JzZXJ2YXRpb24K</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnd2FrZSB1cCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBleGVjIGltcG9ydCBhY3RvciwgbGVhcm5lcgpmcm9tIHV0aWwgaW1wb3J0IGNvbmZpZwoK</text>
+        <text encoding="base64">Z3ltLnJlZ2lzdGVyKAogICAgaWQ9J21tbW9jay12MScsCiAgICBlbnRyeV9wb2ludD0nZW52X3V0aWwua3JfZW52Ok1vY2tFbnYnCikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFjdG9yX3NldHRpbmdzID0gY29uZmlnLnJlYWRfYWN0b3JzKCJhY3Rvci1saXN0Lmpzb24iKQogICAgZm9yIHNldHRpbmcgaW4gYWN0b3Jfc2V0dGluZ3M6CiAgICAgICAgYWN0b3IuYWN0b3JfbG9vcChzZXR0aW5nKQoKICAgIGxlYXJuZXJfc2V0dGluZ3MgPSBjb25maWcucmVhZF9sZWFybmVyKCJsZWFybmVyLmpzb24iKQogICAgbGVhcm5lci5sZWFybmVyX2xvb3AobGVhcm5lcl9zZXR0aW5ncykK</text>
+        <text encoding="base64">Y2xhc3MgTW9ja0VudihneW0uRW52KToKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLm9ic2VydmF0aW9uX3NwYWNlID0gQm94KDEsIDEwMCwgc2hhcGU9KDQsIDMpLCBkdHlwZT1ucC5mbG9hdDMyKQogICAgICAgIHNlbGYuYWN0aW9uX3NwYWNlID0gQm94KDEsIDEwMCwgc2hhcGU9KDQsKSwgZHR5cGU9bnAuaW50KQogICAgICAgIHNlbGYubWF4X3N0ZXBzID0gMAogICAgICAgIHNlbGYuc3RlcHMgPSAwCgogICAgZGVmIG1ha2Uoc2VsZiwgY29uZik6CiAgICAgICAgc2VsZi5tYXhfc3RlcHMgPSBjb25mLmdldCgnc3RlcHMnKQoKICAgIGRlZiBzdGVwKHNlbGYsIGFjdGlvbik6CiAgICAgICAgc2VsZi5zdGVwcyArPSAxCiAgICAgICAgZG9uZSA9IEZhbHNlCiAgICAgICAgaWYgc2VsZi5zdGVwcyA+PSBzZWxmLm1heF9zdGVwczoKICAgICAgICAgICAgZG9uZSA9IFRydWUKCiAgICAgICAgdGltZS5zbGVlcCgxKQogICAgICAgIHJldHVybiBucC5vbmVzKHNoYXBlPSg0LCkpLCAxLCBkb25lLCB7fQoKICAgIGRlZiByZXNldChzZWxmKToKICAgICAgICBzZWxmLnN0ZXBzID0gMAogICAgICAgIHJldHVybiBucC5vbmVzKHNoYXBlPSg0LCkpCgogICAgZGVmIHJlbmRlcihzZWxmLCBtb2RlPSdodW1hbicpOgogICAgICAgIHBhc3MKCgpneW0ucmVnaXN0ZXIoCiAgICBpZD0nbW1tb2NrLXYxJywKICAgIGVudHJ5X3BvaW50PSdtYS10cmFpbmVyOk1vY2tFbnYnCikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmZvWyd0ZXJtaW5hbF9vYnNlcnZhdGlvbiddID0gb2JzZXJ2YXRpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgQ3JlYXRlcyBhIG11bHRpcHJvY2VzcyB2ZWN0b3JpemVkIHdyYXBwZXIgZm9yIG11bHRpcGxlIGVudmlyb25tZW50cywgZGlzdHJpYnV0aW5nIAogICAgZWFjaCBlbnZpcm9ubWVudCB0byBpdHMgb3duIHByb2Nlc3MsIGFsbG93aW5nIHNpZ25pZmljYW50IHNwZWVkIHVwIHdoZW4gdGhlIGVudmlyb25tZW50IGlzIAogICAgY29tcHV0YXRpb25hbGx5IGNvbXBsZXguCiAgICBGb3IgcGVyZm9ybWFuY2UgcmVhc29ucywgaWYgeW91ciBlbnZpcm9ubWVudCBpcyBub3QgSU8gYm91bmQsIHRoZSBudW1iZXIgb2YgZW52aXJvbm1lbnRzIAogICAgc2hvdWxkIG5vdCBleGNlZWQgdGhlCiAgICBudW1iZXIgb2YgbG9naWNhbCBjb3JlcyBvbiB5b3VyIENQVS4KICAgIC4uIHdhcm5pbmc6OgogICAgICAgIE9ubHkgJ2ZvcmtzZXJ2ZXInIGFuZCAnc3Bhd24nIHN0YXJ0IG1ldGhvZHMgYXJlIHRocmVhZC1zYWZlLAogICAgICAgIHdoaWNoIGlzIGltcG9ydGFudCB3aGVuIFRlbnNvckZsb3cgc2Vzc2lvbnMgb3Igb3RoZXIgbm9uIHRocmVhZC1zYWZlCiAgICAgICAgbGlicmFyaWVzIGFyZSB1c2VkIGluIHRoZSBwYXJlbnQgKHNlZSBpc3N1ZSAjMjE3KS4gSG93ZXZlciwgY29tcGFyZWQgdG8KICAgICAgICAnZm9yaycgdGhleSBpbmN1ciBhIHNtYWxsIHN0YXJ0LXVwIGNvc3QgYW5kIGhhdmUgcmVzdHJpY3Rpb25zIG9uCiAgICAgICAgZ2xvYmFsIHZhcmlhYmxlcy4gV2l0aCB0aG9zZSBtZXRob2RzLCB1c2VycyBtdXN0IHdyYXAgdGhlIGNvZGUgaW4gYW4KICAgICAgICBgYGlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6YGAgYmxvY2suCiAgICAgICAgRm9yIG1vcmUgaW5mb3JtYXRpb24sIHNlZSB0aGUgbXVsdGlwcm9jZXNzaW5nIGRvY3VtZW50YXRpb24uCiAgICA6cGFyYW0gZW52X2ZuczogKFtjYWxsYWJsZV0pIEEgbGlzdCBvZiBmdW5jdGlvbnMgdGhhdCB3aWxsIGNyZWF0ZSB0aGUgZW52aXJvbm1lbnRzCiAgICAgICAgKGVhY2ggY2FsbGFibGUgcmV0dXJucyBhIGBHeW0uRW52YCBpbnN0YW5jZSB3aGVuIGNhbGxlZCkuCiAgICA6cGFyYW0gc3RhcnRfbWV0aG9kOiAoc3RyKSBtZXRob2QgdXNlZCB0byBzdGFydCB0aGUgc3VicHJvY2Vzc2VzLgogICAgICAgICAgIE11c3QgYmUgb25lIG9mIHRoZSBtZXRob2RzIHJldHVybmVkIGJ5IG11bHRpcHJvY2Vzc2luZy5nZXRfYWxsX3N0YXJ0X21ldGhvZHMoKS4KICAgICAgICAgICBEZWZhdWx0cyB0byAnZm9ya3NlcnZlcicgb24gYXZhaWxhYmxlIHBsYXRmb3JtcywgYW5kICdzcGF3bicgb3RoZXJ3aXNlLgogICAgIiIiCg==</text>
+        <text encoding="base64">ZnJvbSBleGVjIGltcG9ydCBhY3RvciwgbGVhcm5lcgpmcm9tIHV0aWwgaW1wb3J0IGNvbmZpZwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIGFjdG9yKGNyZWF0ZV9lbnZfZm4sIGluZmVyZW5jZV9mbiwgZW52X3NldHRpbmcpOgogICAgZW52ID0gY3JlYXRlX2Vudl9mbigpCgogICAgZXBpc29kZSA9IGVudl9zZXR0aW5nLmdldCgndG90YWxfc3RlcHMnKQogICAgZm9yIHN0ZXAgaW4gcmFuZ2UoZXBpc29kZSk6CiAgICAgICAgb2JzID0gZW52LnJlc2V0KCkKCiAgICAgICAgZG9uZSA9IEZhbHNlCgogICAgICAgIHJld2FyZCA9IDAuMAogICAgICAgIHdoaWxlIGRvbmU6CiAgICAgICAgICAgIGFjdGlvbiA9IGluZmVyZW5jZV9mbihvYnMsIHJld2FyZCwgZG9uZSkKICAgICAgICAgICAgb2JzLCByZXcsIGRvbmUsIGluZm8gPSBlbnYuc3RlcChhY3Rpb24pCg==</text>
+        <text encoding="base64">ICAgIGFjdG9yX3NldHRpbmdzID0gY29uZmlnLnJlYWRfYWN0b3JzKCJhY3Rvci1saXN0Lmpzb24iKQogICAgZm9yIHNldHRpbmcgaW4gYWN0b3Jfc2V0dGluZ3M6CiAgICAgICAgYWN0b3IuYWN0b3JfbG9vcChzZXR0aW5nKQoKICAgIGxlYXJuZXJfc2V0dGluZ3MgPSBjb25maWcucmVhZF9sZWFybmVyKCJsZWFybmVyLmpzb24iKQogICAgbGVhcm5lci5sZWFybmVyX2xvb3AobGVhcm5lcl9zZXR0aW5ncykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBzdGFibGVfYmFzZWxpbmVzLmNvbW1vbi52ZWNfZW52LmJhc2VfdmVjX2VudiBpbXBvcnQgVmVjRW52LCBDbG91ZHBpY2tsZVdyYXBwZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZWVkKHNlbGYsIHNlZWQ9Tm9uZSk6CiAgICAgICAgZm9yIGlkeCwgcmVtb3RlIGluIGVudW1lcmF0ZShzZWxmLnJlbW90ZXMpOgogICAgICAgICAgICByZW1vdGUuc2VuZCgoJ3NlZWQnLCBzZWVkICsgaWR4KSkKICAgICAgICByZXR1cm4gW3JlbW90ZS5yZWN2KCkgZm9yIHJlbW90ZSBpbiBzZWxmLnJlbW90ZXNdCgo=</text>
+        <text encoding="base64">ICAgICIiIgogICAgQ3JlYXRlcyBhIG11bHRpcHJvY2VzcyB2ZWN0b3JpemVkIHdyYXBwZXIgZm9yIG11bHRpcGxlIGVudmlyb25tZW50cywgZGlzdHJpYnV0aW5nIAogICAgZWFjaCBlbnZpcm9ubWVudCB0byBpdHMgb3duIHByb2Nlc3MsIGFsbG93aW5nIHNpZ25pZmljYW50IHNwZWVkIHVwIHdoZW4gdGhlIGVudmlyb25tZW50IGlzIAogICAgY29tcHV0YXRpb25hbGx5IGNvbXBsZXguCiAgICBGb3IgcGVyZm9ybWFuY2UgcmVhc29ucywgaWYgeW91ciBlbnZpcm9ubWVudCBpcyBub3QgSU8gYm91bmQsIHRoZSBudW1iZXIgb2YgZW52aXJvbm1lbnRzIAogICAgc2hvdWxkIG5vdCBleGNlZWQgdGhlCiAgICBudW1iZXIgb2YgbG9naWNhbCBjb3JlcyBvbiB5b3VyIENQVS4KICAgIC4uIHdhcm5pbmc6OgogICAgICAgIE9ubHkgJ2ZvcmtzZXJ2ZXInIGFuZCAnc3Bhd24nIHN0YXJ0IG1ldGhvZHMgYXJlIHRocmVhZC1zYWZlLAogICAgICAgIHdoaWNoIGlzIGltcG9ydGFudCB3aGVuIFRlbnNvckZsb3cgc2Vzc2lvbnMgb3Igb3RoZXIgbm9uIHRocmVhZC1zYWZlCiAgICAgICAgbGlicmFyaWVzIGFyZSB1c2VkIGluIHRoZSBwYXJlbnQgKHNlZSBpc3N1ZSAjMjE3KS4gSG93ZXZlciwgY29tcGFyZWQgdG8KICAgICAgICAnZm9yaycgdGhleSBpbmN1ciBhIHNtYWxsIHN0YXJ0LXVwIGNvc3QgYW5kIGhhdmUgcmVzdHJpY3Rpb25zIG9uCiAgICAgICAgZ2xvYmFsIHZhcmlhYmxlcy4gV2l0aCB0aG9zZSBtZXRob2RzLCB1c2VycyBtdXN0IHdyYXAgdGhlIGNvZGUgaW4gYW4KICAgICAgICBgYGlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6YGAgYmxvY2suCiAgICAgICAgRm9yIG1vcmUgaW5mb3JtYXRpb24sIHNlZSB0aGUgbXVsdGlwcm9jZXNzaW5nIGRvY3VtZW50YXRpb24uCiAgICA6cGFyYW0gZW52X2ZuczogKFtjYWxsYWJsZV0pIEEgbGlzdCBvZiBmdW5jdGlvbnMgdGhhdCB3aWxsIGNyZWF0ZSB0aGUgZW52aXJvbm1lbnRzCiAgICAgICAgKGVhY2ggY2FsbGFibGUgcmV0dXJucyBhIGBHeW0uRW52YCBpbnN0YW5jZSB3aGVuIGNhbGxlZCkuCiAgICA6cGFyYW0gc3RhcnRfbWV0aG9kOiAoc3RyKSBtZXRob2QgdXNlZCB0byBzdGFydCB0aGUgc3VicHJvY2Vzc2VzLgogICAgICAgICAgIE11c3QgYmUgb25lIG9mIHRoZSBtZXRob2RzIHJldHVybmVkIGJ5IG11bHRpcHJvY2Vzc2luZy5nZXRfYWxsX3N0YXJ0X21ldGhvZHMoKS4KICAgICAgICAgICBEZWZhdWx0cyB0byAnZm9ya3NlcnZlcicgb24gYXZhaWxhYmxlIHBsYXRmb3JtcywgYW5kICdzcGF3bicgb3RoZXJ3aXNlLgogICAgIiIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHNhdmUgZmluYWwgb2JzZXJ2YXRpb24gd2hlcmUgdXNlciBjYW4gZ2V0IGl0LCB0aGVuIHJlc2V0Cg==</text>
+        <text encoding="base64">ZGVmIGFjdG9yKGNyZWF0ZV9lbnZfZm4sIGluZmVyZW5jZV9mbiwgZW52X3NldHRpbmcpOgogICAgZW52ID0gY3JlYXRlX2Vudl9mbigpCgogICAgZXBpc29kZSA9IGVudl9zZXR0aW5nLmdldCgndG90YWxfc3RlcHMnKQogICAgZm9yIHN0ZXAgaW4gcmFuZ2UoZXBpc29kZSk6CiAgICAgICAgb2JzID0gZW52LnJlc2V0KCkKCiAgICAgICAgZG9uZSA9IEZhbHNlCgogICAgICAgIHJld2FyZCA9IDAuMAogICAgICAgIHdoaWxlIGRvbmU6CiAgICAgICAgICAgIGFjdGlvbiA9IGluZmVyZW5jZV9mbihvYnMsIHJld2FyZCwgZG9uZSkKICAgICAgICAgICAgb2JzLCByZXcsIGRvbmUsIGluZm8gPSBlbnYuc3RlcChhY3Rpb24pCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLz1bWzpwcmludDpdXVwrLC8sL2c=</text>
