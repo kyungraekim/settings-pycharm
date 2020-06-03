@@ -118,6 +118,9 @@
       <file name="/Python Console" timestamp="1590472944340">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1591216433109">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/deeplearning/ma-sls/learner.py" timestamp="1590479219988">
         <mark key="[" line="0" column="0" />
       </file>
@@ -137,12 +140,6 @@
         <mark key="]" line="6" column="33" />
         <mark key="." line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/model/DAN/train_sfd.py" timestamp="1562302910765">
-        <mark key="'" line="29" column="20" />
-      </file>
-      <file name="$USER_HOME$/model/DAN/utility/anchor_manipulator.py" timestamp="1562302994876">
-        <mark key="'" line="21" column="20" />
-      </file>
       <file name="$USER_HOME$/workspace/deeplearning/ma-sls/dict_to_json.py" timestamp="1590479812687">
         <mark key="'" line="31" column="4" />
         <mark key="[" line="15" column="24" />
@@ -161,8 +158,8 @@
       <file name="$USER_HOME$/workspace/repos/seed_rl/agents/sac/learner.py" timestamp="1587275635539">
         <mark key="'" line="401" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/exec/actor.py" timestamp="1591201320207">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/exec/actor.py" timestamp="1591216517058">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -177,10 +174,17 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/exec/env_handler.py" timestamp="1591216348297">
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/opt/anaconda3/envs/pypractice/lib/python3.7/site-packages/stable_baselines/common/vec_env/base_vec_env.py" timestamp="1591216326188">
+        <mark key="'" line="320" column="0" />
+        <mark key="[" line="320" column="0" />
+        <mark key="]" line="333" column="36" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/Documents/dlengine-METALDEV/tests/flask_test.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/Documents/dlengine-METALDEV/tests/flask_test.py" />
       <jump line="49" column="0" filename="$USER_HOME$/Documents/dlengine-METALDEV/tests/flask_test.py" />
       <jump line="57" column="0" filename="$USER_HOME$/Documents/dlengine-METALDEV/tests/flask_test.py" />
       <jump line="65" column="0" filename="$USER_HOME$/Documents/dlengine-METALDEV/tests/flask_test.py" />
@@ -279,48 +283,50 @@
       <jump line="515" column="0" filename="$USER_HOME$/opt/anaconda3/envs/pypractice/lib/python3.7/site-packages/stable_baselines/sac/sac.py" />
       <jump line="519" column="0" filename="$USER_HOME$/opt/anaconda3/envs/pypractice/lib/python3.7/site-packages/stable_baselines/sac/sac.py" />
       <jump line="355" column="8" filename="$USER_HOME$/opt/anaconda3/envs/pypractice/lib/python3.7/site-packages/stable_baselines/sac/sac.py" />
+      <jump line="320" column="0" filename="$USER_HOME$/opt/anaconda3/envs/pypractice/lib/python3.7/site-packages/stable_baselines/common/vec_env/base_vec_env.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/deeplearning/ma-sls/exec/actor.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGFjdG9yX2xvb3AoYWN0b3JfY29uZmlncyk6CiAgICBwcmludChhY3Rvcl9jb25maWdzKQo=</text>
+        <text encoding="base64">ZGVmIGFjdG9yKGNyZWF0ZV9lbnZfZm4sIGluZmVyZW5jZV9mbiwgZW52X3NldHRpbmcpOgogICAgZW52ID0gY3JlYXRlX2Vudl9mbigpCgogICAgZXBpc29kZSA9IGVudl9zZXR0aW5nLmdldCgndG90YWxfc3RlcHMnKQogICAgZm9yIHN0ZXAgaW4gcmFuZ2UoZXBpc29kZSk6CiAgICAgICAgb2JzID0gZW52LnJlc2V0KCkKCiAgICAgICAgZG9uZSA9IEZhbHNlCgogICAgICAgIHJld2FyZCA9IDAuMAogICAgICAgIHdoaWxlIGRvbmU6CiAgICAgICAgICAgIGFjdGlvbiA9IGluZmVyZW5jZV9mbihvYnMsIHJld2FyZCwgZG9uZSkKICAgICAgICAgICAgb2JzLCByZXcsIGRvbmUsIGluZm8gPSBlbnYuc3RlcChhY3Rpb24pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>VecEnv</text>
       </register>
       <register name="/" type="4">
         <text>=[[:print:]]\+,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc2VsZi5udW1fdGltZXN0ZXBzICs9IDEK</text>
+        <text encoding="base64">Y2xhc3MgQ2xvdWRwaWNrbGVXcmFwcGVyKG9iamVjdCk6CiAgICBkZWYgX19pbml0X18oc2VsZiwgdmFyKToKICAgICAgICAiIiIKICAgICAgICBVc2VzIGNsb3VkcGlja2xlIHRvIHNlcmlhbGl6ZSBjb250ZW50cyAob3RoZXJ3aXNlIG11bHRpcHJvY2Vzc2luZyB0cmllcyB0byB1c2UgcGlja2xlKQoKICAgICAgICA6cGFyYW0gdmFyOiAoQW55KSB0aGUgdmFyaWFibGUgeW91IHdpc2ggdG8gd3JhcCBmb3IgcGlja2xpbmcgd2l0aCBjbG91ZHBpY2tsZQogICAgICAgICIiIgogICAgICAgIHNlbGYudmFyID0gdmFyCgogICAgZGVmIF9fZ2V0c3RhdGVfXyhzZWxmKToKICAgICAgICByZXR1cm4gY2xvdWRwaWNrbGUuZHVtcHMoc2VsZi52YXIpCgogICAgZGVmIF9fc2V0c3RhdGVfXyhzZWxmLCBvYnMpOgogICAgICAgIHNlbGYudmFyID0gcGlja2xlLmxvYWRzKG9icykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGFjdG9yX2xvb3AoYWN0b3JfY29uZmlncyk6CiAgICBwcmludChhY3Rvcl9jb25maWdzKQo=</text>
+        <text encoding="base64">ZGVmIGFjdG9yKGNyZWF0ZV9lbnZfZm4sIGluZmVyZW5jZV9mbiwgZW52X3NldHRpbmcpOgogICAgZW52ID0gY3JlYXRlX2Vudl9mbigpCgogICAgZXBpc29kZSA9IGVudl9zZXR0aW5nLmdldCgndG90YWxfc3RlcHMnKQogICAgZm9yIHN0ZXAgaW4gcmFuZ2UoZXBpc29kZSk6CiAgICAgICAgb2JzID0gZW52LnJlc2V0KCkKCiAgICAgICAgZG9uZSA9IEZhbHNlCgogICAgICAgIHJld2FyZCA9IDAuMAogICAgICAgIHdoaWxlIGRvbmU6CiAgICAgICAgICAgIGFjdGlvbiA9IGluZmVyZW5jZV9mbihvYnMsIHJld2FyZCwgZG9uZSkKICAgICAgICAgICAgb2JzLCByZXcsIGRvbmUsIGluZm8gPSBlbnYuc3RlcChhY3Rpb24pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUKCmltcG9ydCBudW1weSBhcyBucApmcm9tIHN0YWJsZV9iYXNlbGluZXMgaW1wb3J0IFNBQwpmcm9tIHN0YWJsZV9iYXNlbGluZXMuY29tbW9uIGltcG9ydCBTZXRWZXJib3NpdHksIFRlbnNvcmJvYXJkV3JpdGVyLCB0Zl91dGlsCmZyb20gc3RhYmxlX2Jhc2VsaW5lcy5jb21tb24ubWF0aF91dGlsIGltcG9ydCBzY2FsZV9hY3Rpb24sIHVuc2NhbGVfYWN0aW9uCmZyb20gc3RhYmxlX2Jhc2VsaW5lcy5jb21tb24uc2NoZWR1bGVzIGltcG9ydCBnZXRfc2NoZWR1bGVfZm4KZnJvbSBzdGFibGVfYmFzZWxpbmVzLmNvbW1vbi52ZWNfZW52IGltcG9ydCBWZWNFbnYKCg==</text>
+        <text encoding="base64">ZnJvbSBzdGFibGVfYmFzZWxpbmVzLmNvbW1vbi52ZWNfZW52LmJhc2VfdmVjX2VudiBpbXBvcnQgVmVjRW52LCBDbG91ZHBpY2tsZVdyYXBwZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBkX2xlYXJuKHNlbGYsICk6Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBzZWVkKHNlbGYsIHNlZWQ9Tm9uZSk6CiAgICAgICAgZm9yIGlkeCwgcmVtb3RlIGluIGVudW1lcmF0ZShzZWxmLnJlbW90ZXMpOgogICAgICAgICAgICByZW1vdGUuc2VuZCgoJ3NlZWQnLCBzZWVkICsgaWR4KSkKICAgICAgICByZXR1cm4gW3JlbW90ZS5yZWN2KCkgZm9yIHJlbW90ZSBpbiBzZWxmLnJlbW90ZXNdCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgIHN1cGVyKFNhY1dyYXBwZXIsIHNlbGYpLl9faW5pdF9fKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHNhdmUgZmluYWwgb2JzZXJ2YXRpb24gd2hlcmUgdXNlciBjYW4gZ2V0IGl0LCB0aGVuIHJlc2V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">X19hbGxfXyA9IFsiY29uZmlnIl0K</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfaW1hZ2VzKHNlbGYsICphcmdzLCAqKmt3YXJncykgLT4gU2VxdWVuY2VbbnAubmRhcnJheV06CiAgICAgICAgZm9yIHBpcGUgaW4gc2VsZi5yZW1vdGVzOgogICAgICAgICAgICAjIGdhdGhlciBpbWFnZXMgZnJvbSBzdWJwcm9jZXNzZXMKICAgICAgICAgICAgIyBgbW9kZWAgd2lsbCBiZSB0YWtlbiBpbnRvIGFjY291bnQgbGF0ZXIKICAgICAgICAgICAgcGlwZS5zZW5kKCgncmVuZGVyJywgKGFyZ3MsIHsnbW9kZSc6ICdyZ2JfYXJyYXknLCAqKmt3YXJnc30pKSkKICAgICAgICBpbWdzID0gW3BpcGUucmVjdigpIGZvciBwaXBlIGluIHNlbGYucmVtb3Rlc10KICAgICAgICByZXR1cm4gaW1ncwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBjbWQgPT0gJ3JlbmRlcic6CiAgICAgICAgICAgICAgICByZW1vdGUuc2VuZChlbnYucmVuZGVyKCpkYXRhWzBdLCAqKmRhdGFbMV0pKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBGb3JrIGlzIG5vdCBhIHRocmVhZCBzYWZlIG1ldGhvZCAoc2VlIGlzc3VlICMyMTcpCiAgICAgICAgICAgICMgYnV0IGlzIG1vcmUgdXNlciBmcmllbmRseSAoZG9lcyBub3QgcmVxdWlyZSB0byB3cmFwIHRoZSBjb2RlIGluCiAgICAgICAgICAgICMgYSBgaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjpgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3M=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBGb3JrIGlzIG5vdCBhIHRocmVhZCBzYWZlIG1ldGhvZCAoc2VlIGlzc3VlICMyMTcpCiAgICAgICAgICAgICMgYnV0IGlzIG1vcmUgdXNlciBmcmllbmRseSAoZG9lcyBub3QgcmVxdWlyZSB0byB3cmFwIHRoZSBjb2RlIGluCiAgICAgICAgICAgICMgYSBgaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjpgKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLz1bWzpwcmludDpdXVwrLC8sL2c=</text>
