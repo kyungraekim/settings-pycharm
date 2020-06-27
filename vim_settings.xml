@@ -107,10 +107,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1591226768679">
+      <file name="/Python Console" timestamp="1593229308058">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1591226776773">
+      <file name="/fragment.py" timestamp="1593229338030">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/deeplearning/ma-sls/env_util/concurrent_handler.py" timestamp="1591228288265">
@@ -157,7 +157,7 @@
         <mark key="]" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591228947104">
+      <file name="/Dummy.txt" timestamp="1593228853984">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/deeplearning/ma-sls/actor-list.json" timestamp="1591227656992">
@@ -171,8 +171,10 @@
       <file name="$USER_HOME$/workspace/etc/minimal-RL-interface/src/env_utils/random_load_status.py" timestamp="1592170229569">
         <mark key="[" line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/etc/plotting/plotting/scatter.py" timestamp="1593227044274">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/etc/plotting/plotting/scatter.py" timestamp="1593229303318">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/deeplearning/ma-sls/env_util/env_handler.py" timestamp="1591226234141">
         <mark key="'" line="0" column="0" />
@@ -291,8 +293,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>(random.randint(10, 16)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaSA9PSBqOgo=</text>
       </register>
       <register name="-" type="4">
         <text>(random.randint(10, 16)</text>
@@ -304,31 +306,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLm9ic2VydmF0aW9uX3NwYWNlID0gQm94KGxvdz1vYnNlcnZhdGlvbl9zcGFjZS5sb3csIGhpZ2g9b2JzZXJ2YXRpb25fc3BhY2UuaGlnaCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXBlPShzZWxmLm5fZW52cywpICsgb2JzZXJ2YXRpb25fc3BhY2Uuc2hhcGUsIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZHR5cGU9b2JzZXJ2YXRpb25fc3BhY2UuZHR5cGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSByYW5kb20gaW1wb3J0IHJhbmRvbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaSA9PSBqOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzcmMuZW52X3V0aWxzLnNsc2NsaWVudCBpbXBvcnQgU2xzQ2xpZW50Cg==</text>
+        <text encoding="base64">ZGVmIHNjYXR0ZXJfbWF0cml4KGZyYW1lczogU2VxdWVuY2VbcGQuRGF0YUZyYW1lXSwgaW50ZXJlc3RzOiBTZXF1ZW5jZVtBbnldKToKICAgIHNxdWFyZV9zaXplID0gbGVuKGludGVyZXN0cykKICAgIF8sIGF4ZXMgPSBwbHQuc3VicGxvdHMoc3F1YXJlX3NpemUsIHNxdWFyZV9zaXplKQogICAgZm9yIGkgaW4gcmFuZ2Uoc3F1YXJlX3NpemUpOgogICAgICAgIGZvciBqIGluIHJhbmdlKHNxdWFyZV9zaXplKToKICAgICAgICAgICAgaWYgaSA9PSBqOgogICAgICAgICAgICAgICAgZHJhd19zZWxlY3RlZF9ncmFwaChmcmFtZXNbaV0sIGZyYW1lc1tqXSkKICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzcmMuZW52X3V0aWxzLnNsc2NsaWVudCBpbXBvcnQgU2xzQ2xpZW50Cg==</text>
+        <text encoding="base64">ICAgIGZvciBheF9yb3cgaW4gZW51bWVyYXRlKGF4ZXMpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgTW9ja1NlcnZlcjoK</text>
+        <text encoding="base64">ICAgIGZvciBheCBpbiBheGVzOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYS5zdGFydCgpCg==</text>
+        <text encoding="base64">ZnJvbSByYW5kb20gaW1wb3J0IHJhbmRvbQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwYXRjaCgnc3JjLmVudl91dGlscy5zbHNjbGllbnQucmVxdWVzdHMuZ2V0JykKICAgIGRlZiB0ZXN0X2dldF9hcGkoc2VsZiwgbW9ja19nZXQpOgogICAgICAgIG1vY2tfZ2V0LnJldHVybl92YWx1ZS5zdGF0dXNfY29kZSA9IDIwMAogICAgICAgIHJldHVybiB7J2EnOiAxfQo=</text>
+        <text encoding="base64">ZnJvbSBzcmMuZW52X3V0aWxzLnNsc2NsaWVudCBpbXBvcnQgU2xzQ2xpZW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbGkgPSBTbHNDbGllbnQoKQogICAgICAgIHJlc3BvbnNlID0gY2xpLmluaXRpYWxpemUoMSkKICAgICAgICBwcmludChyZXNwb25zZSkKCmEgPSBNb2NrU2VydmVyKCk=</text>
+        <text encoding="base64">ZnJvbSBzcmMuZW52X3V0aWxzLnNsc2NsaWVudCBpbXBvcnQgU2xzQ2xpZW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBneW0uc3BhY2VzIGltcG9ydCBCb3gK</text>
+        <text encoding="base64">Y2xhc3MgTW9ja1NlcnZlcjoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKCkKICAgICAgICBzZWxmLmFjdGlvbl9zcGFjZSA9IEJveChsb3c9Ym94X2xvdyhhY3Rpb25fc3BhY2UpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhpZ2g9Ym94X2hpZ2goYWN0aW9uX3NwYWNlKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaGFwZT0oc2VsZi5uX2VudnMsKSArIGFjdGlvbl9zcGFjZS5zaGFwZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkdHlwZT1hY3Rpb25fc3BhY2UuZHR5cGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYS5zdGFydCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
