@@ -171,16 +171,13 @@
       <file name="$USER_HOME$/workspace/etc/minimal-RL-interface/src/env_utils/random_load_status.py" timestamp="1592170229569">
         <mark key="[" line="8" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/etc/plotting/plotting/scatter.py" timestamp="1593227044274">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/deeplearning/ma-sls/env_util/env_handler.py" timestamp="1591226234141">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="82" column="49" />
         <mark key="]" line="202" column="28" />
-      </file>
-      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/exec/env_handler.py" timestamp="1591218834170">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="10" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/etc/minimal-RL-interface/src/env_utils/observation_reader.py" timestamp="1592170418435">
         <mark key="[" line="14" column="7" />
