@@ -135,10 +135,10 @@
         <mark key="'" line="17" column="0" />
         <mark key="[" line="17" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/etc/plotting/play_pd.py" timestamp="1597904214747">
-        <mark key="[" line="27" column="15" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/workspace/etc/plotting/play_pd.py" timestamp="1597904860890">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/deeplearning/ma-sls/ma-trainer.py" timestamp="1591227736335">
         <mark key="[" line="16" column="0" />
@@ -296,7 +296,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">cHJpbnQoIj09PT09PSIpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAjIHR5cGU6IHBkLlNlcmllcw==</text>
@@ -308,31 +308,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLm9ic2VydmF0aW9uX3NwYWNlID0gQm94KGxvdz1vYnNlcnZhdGlvbl9zcGFjZS5sb3csIGhpZ2g9b2JzZXJ2YXRpb25fc3BhY2UuaGlnaCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXBlPShzZWxmLm5fZW52cywpICsgb2JzZXJ2YXRpb25fc3BhY2Uuc2hhcGUsIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZHR5cGU9b2JzZXJ2YXRpb25fc3BhY2UuZHR5cGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">cHJpbnQoIj09PT09PSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHN1bV93aXRoX25wX2NvbChucF9hcnIsIGNvbDEsIGNvbDIsIHRhcmdldCk6CiAgICBucF9hcnJbOiwgdGFyZ2V0XSA9IG5wX2Fycls6LCBjb2wxXSArIG5wX2Fycls6LCBjb2wyXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR5cGUoZGYpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHRfc3BsaXQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNhbXBsZSkK</text>
+        <text encoding="base64">cHJpbnQocGRfc2FtcGxlLnRhaWwoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Zm9yIHNhbXBsZSBpbiBwZF9zYW1wbGU6Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRhc2tzID0gWyhwZF9zcGxpdHMsIHJvd19pZCkgZm9yIHppcCgpXQo=</text>
+        <text encoding="base64">ZGVmIHN1bV93aXRoX25wX2NvbChucF9hcnIsIGNvbDEsIGNvbDIsIHRhcmdldCk6CiAgICBucF9hcnJbOiwgdGFyZ2V0XSA9IG5wX2Fycls6LCBjb2wxXSArIG5wX2Fycls6LCBjb2wyXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdF9pdGVyYXRvciA9IHBvb2wuaW1hcF91bm9yZGVyZWQobmFuX3RvX3plcm8sIChwZF9zcGxpdHMsIHJvd19pZCkK</text>
+        <text encoding="base64">ICAgIHByaW50KHR5cGUoZGYpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHQuZ2V0KCkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHNhbXBsZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciByZXN1bHQgaW4gcmVzdWx0czoK</text>
+        <text encoding="base64">Zm9yIHNhbXBsZSBpbiBwZF9zYW1wbGU6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
