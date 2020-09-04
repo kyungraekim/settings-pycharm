@@ -110,11 +110,6 @@
       <file name="/Dummy.txt" timestamp="1593228853984">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/deeplearning/ma-sls/actor-list.json" timestamp="1591227656992">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="/Python Console" timestamp="1597903406361">
         <mark key="[" line="0" column="0" />
       </file>
@@ -145,6 +140,9 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/etc/pso/space.py" timestamp="1599201085790">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/deeplearning/ma-sls/ma-trainer.py" timestamp="1591227736335">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="34" column="0" />
@@ -168,8 +166,12 @@
       <file name="$USER_HOME$/workspace/etc/minimal-RL-interface/src/env_utils/random_load_status.py" timestamp="1592170229569">
         <mark key="[" line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/etc/pso/pso.py" timestamp="1599200613876">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/etc/pso/pso.py" timestamp="1599202309658">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="18" column="53" />
+        <mark key="." line="18" column="52" />
+        <mark key="^" line="18" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/etc/plotting/plotting/scatter.py" timestamp="1593229303318">
         <mark key="[" line="20" column="0" />
@@ -194,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="8" filename="$USER_HOME$/Documents/dlengine-METALDEV/tests/job/test_api.py" />
       <jump line="26" column="11" filename="$USER_HOME$/Documents/dlengine-METALDEV/tests/job/test_context.py" />
       <jump line="68" column="26" filename="$USER_HOME$/Documents/dlengine-METALDEV/tests/engine/bound/test_session.py" />
       <jump line="99" column="18" filename="$USER_HOME$/Documents/dlengine-METALDEV/tests/engine/model/test_inference.py" />
@@ -294,12 +295,13 @@
       <jump line="99" column="0" filename="$USER_HOME$/workspace/deeplearning/ma-sls/env_util/concurrent_handler.py" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/etc/minimal-RL-interface/src/env_utils/environment.py" />
       <jump line="0" column="13" filename="$USER_HOME$/workspace/etc/pso/main.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/etc/pso/pso.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoIj09PT09PSIpCg==</text>
+        <text encoding="base64">ICAgIHN3YXJtLgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAjIHR5cGU6IHBkLlNlcmllcw==</text>
@@ -311,31 +313,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLm9ic2VydmF0aW9uX3NwYWNlID0gQm94KGxvdz1vYnNlcnZhdGlvbl9zcGFjZS5sb3csIGhpZ2g9b2JzZXJ2YXRpb25fc3BhY2UuaGlnaCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXBlPShzZWxmLm5fZW52cywpICsgb2JzZXJ2YXRpb25fc3BhY2Uuc2hhcGUsIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZHR5cGU9b2JzZXJ2YXRpb25fc3BhY2UuZHR5cGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoIj09PT09PSIpCg==</text>
+        <text encoding="base64">ICAgIHN3YXJtLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNsYXNzIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHRfc3BsaXQpCg==</text>
+        <text encoding="base64">Y2xhc3MgUFNPOgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHBhc3MKICAgIAogICAgZGVmIGZpdChzZWxmLCB3LCBjYywgc2MsIGxyKToKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQocGRfc2FtcGxlLnRhaWwoKSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmJlc3QgPSBOb25lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIHN1bV93aXRoX25wX2NvbChucF9hcnIsIGNvbDEsIGNvbDIsIHRhcmdldCk6CiAgICBucF9hcnJbOiwgdGFyZ2V0XSA9IG5wX2Fycls6LCBjb2wxXSArIG5wX2Fycls6LCBjb2wyXQo=</text>
+        <text encoding="base64">Y2xhc3MgU3dhcm06CiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi5iZXN0ID0gTm9uZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR5cGUoZGYpKQo=</text>
+        <text encoding="base64">IyBUaGlzIGlzIGEgc2FtcGxlIFB5dGhvbiBzY3JpcHQuCgojIFByZXNzIOKMg1IgdG8gZXhlY3V0ZSBpdCBvciByZXBsYWNlIGl0IHdpdGggeW91ciBjb2RlLgojIFByZXNzIERvdWJsZSDih6cgdG8gc2VhcmNoIGV2ZXJ5d2hlcmUgZm9yIGNsYXNzZXMsIGZpbGVzLCB0b29sIHdpbmRvd3MsIGFjdGlvbnMsIGFuZCBzZXR0aW5ncy4KCgpkZWYgcHJpbnRfaGkobmFtZSk6CiAgICAjIFVzZSBhIGJyZWFrcG9pbnQgaW4gdGhlIGNvZGUgbGluZSBiZWxvdyB0byBkZWJ1ZyB5b3VyIHNjcmlwdC4KICAgIHByaW50KGYnSGksIHtuYW1lfScpICAjIFByZXNzIOKMmEY4IHRvIHRvZ2dsZSB0aGUgYnJlYWtwb2ludC4KCgojIFByZXNzIHRoZSBncmVlbiBidXR0b24gaW4gdGhlIGd1dHRlciB0byBydW4gdGhlIHNjcmlwdC4KaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHByaW50X2hpKCdQeUNoYXJtJykKCiMgU2VlIFB5Q2hhcm0gaGVscCBhdCBodHRwczovL3d3dy5qZXRicmFpbnMuY29tL2hlbHAvcHljaGFybS8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNhbXBsZSkK</text>
+        <text encoding="base64">cHJpbnQoIj09PT09PSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Zm9yIHNhbXBsZSBpbiBwZF9zYW1wbGU6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
