@@ -140,10 +140,10 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/etc/pso/space.py" timestamp="1599458492986">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/workspace/etc/pso/space.py" timestamp="1599487253647">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/deeplearning/ma-sls/ma-trainer.py" timestamp="1591227736335">
         <mark key="[" line="16" column="0" />
@@ -300,8 +300,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -313,31 +313,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLm9ic2VydmF0aW9uX3NwYWNlID0gQm94KGxvdz1vYnNlcnZhdGlvbl9zcGFjZS5sb3csIGhpZ2g9b2JzZXJ2YXRpb25fc3BhY2UuaGlnaCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXBlPShzZWxmLm5fZW52cywpICsgb2JzZXJ2YXRpb25fc3BhY2Uuc2hhcGUsIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZHR5cGU9b2JzZXJ2YXRpb25fc3BhY2UuZHR5cGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgU2VhcmNoU3BhY2U6CiAgICBkZWYgc2FtcGxlKHNlbGYpOgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IKICAgIAogICAgQHByb3BlcnR5CiAgICBkZWYgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHN0ZXAoc3RlcF9mbiwgdmVjdG9yLCBpbmRleCk6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG11bHRpcHJvY2Vzc2luZy5Qb29sKHByb2Nlc3Nlcz00KSBhcyBwb29sOgogICAgICAgICAgICBwb29sLmltYXBfdW5vcmRlcmVkKCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBzYW1wbGUoc2VsZik6CiAgICAgICAgcGFzcwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhcnRpY2xlcyA9IFtQYXJ0aWNsZSgpIGZvciBfIGluIHJhbmdlKG51bV9wYXJ0aWNsZXMpXQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGVmIHN0ZXAoc3RlcF9mbiwgdmVjdG9yLCBpbmRleCk6Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIG11bHRpcHJvY2Vzc2luZy5Qb29sKHByb2Nlc3Nlcz00KSBhcyBwb29sOgogICAgICAgICAgICBwb29sLmltYXBfdW5vcmRlcmVkKCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZiBzYW1wbGUoc2VsZik6CiAgICAgICAgcGFzcwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgUGFydGljbGU6CiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi5iZXN0ID0gTm9uZQogICAgICAgIHNlbGYuY3VycmVudCA9IE5vbmUKCiAgICBkZWYgbW92ZShzZWxmLCB3LCBjcywgc3MsIGxyLCBzd2FybV9iZXN0KToKICAgICAgICB2X2NvZ25pdGl2ZSA9IGNzICogKHNlbGYuYmVzdCAtIHNlbGYuY3VycmVudCkKICAgICAgICB2X3NvY2lhbCA9IHNzICogKHNlbGYuYmVzdCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhcnRpY2xlcyA9IFtQYXJ0aWNsZSgpIGZvciBfIGluIHJhbmdlKG51bV9wYXJ0aWNsZXMpXQo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
