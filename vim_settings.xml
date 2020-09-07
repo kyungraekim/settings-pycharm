@@ -168,8 +168,10 @@
       <file name="$USER_HOME$/workspace/etc/minimal-RL-interface/src/env_utils/random_load_status.py" timestamp="1592170229569">
         <mark key="[" line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/etc/pso/pso.py" timestamp="1599458587731">
-        <mark key="[" line="13" column="34" />
+      <file name="$USER_HOME$/workspace/etc/pso/pso.py" timestamp="1599480548501">
+        <mark key="[" line="39" column="34" />
+        <mark key="]" line="39" column="34" />
+        <mark key="." line="39" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/etc/plotting/plotting/scatter.py" timestamp="1593229303318">
         <mark key="[" line="20" column="0" />
@@ -298,11 +300,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG11bHRpcHJvY2Vzc2luZy5Qb29sKHByb2Nlc3Nlcz00KSBhcyBwb29sOgogICAgICAgICAgICBwb29sLmltYXBfdW5vcmRlcmVkKCkK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>np.random.uniform(0, 30, num)</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ZnJvbSA=</text>
@@ -311,31 +313,31 @@
         <text encoding="base64">ICAgICAgICBzZWxmLm9ic2VydmF0aW9uX3NwYWNlID0gQm94KGxvdz1vYnNlcnZhdGlvbl9zcGFjZS5sb3csIGhpZ2g9b2JzZXJ2YXRpb25fc3BhY2UuaGlnaCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXBlPShzZWxmLm5fZW52cywpICsgb2JzZXJ2YXRpb25fc3BhY2Uuc2hhcGUsIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZHR5cGU9b2JzZXJ2YXRpb25fc3BhY2UuZHR5cGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG11bHRpcHJvY2Vzc2luZy5Qb29sKHByb2Nlc3Nlcz00KSBhcyBwb29sOgogICAgICAgICAgICBwb29sLmltYXBfdW5vcmRlcmVkKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBzYW1wbGUoc2VsZik6CiAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhcnRpY2xlcyA9IFtQYXJ0aWNsZSgpIGZvciBfIGluIHJhbmdlKG51bV9wYXJ0aWNsZXMpXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHN0ZXAoc3RlcF9mbiwgdmVjdG9yLCBpbmRleCk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgUGFydGljbGU6CiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi5iZXN0ID0gTm9uZQogICAgICAgIHNlbGYuY3VycmVudCA9IE5vbmUKCiAgICBkZWYgbW92ZShzZWxmLCB3LCBjcywgc3MsIGxyLCBzd2FybV9iZXN0KToKICAgICAgICB2X2NvZ25pdGl2ZSA9IGNzICogKHNlbGYuYmVzdCAtIHNlbGYuY3VycmVudCkKICAgICAgICB2X3NvY2lhbCA9IHNzICogKHNlbGYuYmVzdCkK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG11bHRpcHJvY2Vzc2luZy5Qb29sKHByb2Nlc3Nlcz00KSBhcyBwb29sOgogICAgICAgICAgICBwb29sLmltYXBfdW5vcmRlcmVkKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBzYW1wbGUoc2VsZik6CiAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhcnRpY2xlcyA9IFtQYXJ0aWNsZSgpIGZvciBfIGluIHJhbmdlKG51bV9wYXJ0aWNsZXMpXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBtb3ZlX3BhcnRpY2xlKHNlbGYsIHcsIGNzLCBzcywgbHIpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNwYWNlLnRhcmdldCA9IHRhcmdl</text>
+        <text encoding="base64">Y2xhc3MgUGFydGljbGU6CiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi5iZXN0ID0gTm9uZQogICAgICAgIHNlbGYuY3VycmVudCA9IE5vbmUKCiAgICBkZWYgbW92ZShzZWxmLCB3LCBjcywgc3MsIGxyLCBzd2FybV9iZXN0KToKICAgICAgICB2X2NvZ25pdGl2ZSA9IGNzICogKHNlbGYuYmVzdCAtIHNlbGYuY3VycmVudCkKICAgICAgICB2X3NvY2lhbCA9IHNzICogKHNlbGYuYmVzdCkK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
