@@ -140,11 +140,10 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/etc/pso/space.py" timestamp="1599447306290">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workspace/etc/pso/space.py" timestamp="1599455066143">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/deeplearning/ma-sls/ma-trainer.py" timestamp="1591227736335">
         <mark key="[" line="16" column="0" />
@@ -169,10 +168,9 @@
       <file name="$USER_HOME$/workspace/etc/minimal-RL-interface/src/env_utils/random_load_status.py" timestamp="1592170229569">
         <mark key="[" line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/etc/pso/pso.py" timestamp="1599447294310">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/workspace/etc/pso/pso.py" timestamp="1599454870564">
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/etc/plotting/plotting/scatter.py" timestamp="1593229303318">
         <mark key="[" line="20" column="0" />
@@ -302,21 +300,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>class SampleSearchSpace:
-    def __init__(self, dim):
-        self.dim = dim
-
-    def move(self, location):
-        return location
-
-
-class SlsSearchSpace:
-    def __init__(self):
-        self.sls = SlsClient()
-
-    def move(self, params):
-        kpi = self.sls.simulate(params)
-        return kpigg</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAjIHR5cGU6IHBkLlNlcmllcw==</text>
@@ -328,6 +312,12 @@ class SlsSearchSpace:
         <text encoding="base64">ICAgICAgICBzZWxmLm9ic2VydmF0aW9uX3NwYWNlID0gQm94KGxvdz1vYnNlcnZhdGlvbl9zcGFjZS5sb3csIGhpZ2g9b2JzZXJ2YXRpb25fc3BhY2UuaGlnaCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXBlPShzZWxmLm5fZW52cywpICsgb2JzZXJ2YXRpb25fc3BhY2Uuc2hhcGUsIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZHR5cGU9b2JzZXJ2YXRpb25fc3BhY2UuZHR5cGUpCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlZiBzZXRfdGFyZ2V0KHNlbGYsIHRhcmdldCk6CiAgICAgICAgc2VsZi50YXJnZXQgPSAK</text>
+      </register>
+      <register name="3" type="2">
         <text>class SampleSearchSpace:
     def __init__(self, dim):
         self.dim = dim
@@ -344,29 +334,23 @@ class SlsSearchSpace:
         kpi = self.sls.simulate(params)
         return kpigg</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Y2xhc3MgUGFydGljbGU6CiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi5iZXN0ID0gTm9uZQogICAgICAgIHNlbGYuY3VycmVudCA9IE5vbmUKCgpjbGFzcyBTd2FybToKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBzZWxmLmJlc3QgPSBOb25lCiAgICAgICAgc2VsZi5wYXJ0aWNsZXMgPSBOb25lCgoKZGVmIHBzbyhzd2FybSwgc3BhY2UsIG1ldHJpY19mbiwgZ29hbCwgdywgY2MsIHNjLCBsciwgbWF4X2l0ZXIpOgogICAgbG9zc2VzID0gW10KICAgIGN1cl9pdGVyID0gMAogICAgd2hpbGUgbWV0cmljX2ZuKHN3YXJtLmJlc3QpID4gZ29hbCBhbmQgY3VyX2l0ZXIgPCBtYXhfaXRlcjoKICAgICAgICBmb3IgcGFydGljbGUgaW4gc3dhcm06CiAgICAgICAgICAgIG1vdmUoY2MsIGxyLCBwYXJ0aWNsZSwgc2MsIHNwYWNlLCBzd2FybSwgdykKCgpkZWYgbW92ZShjYywgbHIsIHBhcnRpY2xlLCBzYywgc3BhY2UsIHN3YXJtLCB3KToKICAgIGNfcmFuZCA9IG5wLnJhbmRvbS51bmlmb3JtKDAsIDEsIHNwYWNlLnNoYXBlKQogICAgc19yYW5kID0gbnAucmFuZG9tLnVuaWZvcm0oMCwgMSwgc3BhY2Uuc2hhcGUpCiAgICB2X2NvZ25pdGl2ZSA9IGNjICogY19yYW5kICogKHBhcnRpY2xlLmJlc3QgLSBwYXJ0aWNsZS5jdXJyZW50KQogICAgdl9zb2NpYWwgPSBzYyAqIHNfcmFuZCAqIChzd2FybS5iZXN0IC0gcGFydGljbGUuY3VycmVudCkKICAgIHYgPSB3ICogcGFydGljbGUuY3VycmVudCArIHZfY29nbml0aXZlICsgdl9zb2NpYWwKICAgIHBhcnRpY2xlLmN1cnJlbnQgKz0gbHIgKiB2CgoKY2xhc3MgU2VhcmNoU3BhY2U6CiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgcGFzcwoKICAgIGRlZiBtb3ZlKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgcGFzcwoK</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHN3YXJtLgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CmNsYXNzIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Y2xhc3MgUFNPOgogICAgZGVmIF9faW5pdF9fKHNlbGYpOgogICAgICAgIHBhc3MKICAgIAogICAgZGVmIGZpdChzZWxmLCB3LCBjYywgc2MsIGxyKToKICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmJlc3QgPSBOb25lCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgU3dhcm06CiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi5iZXN0ID0gTm9uZQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBUaGlzIGlzIGEgc2FtcGxlIFB5dGhvbiBzY3JpcHQuCgojIFByZXNzIOKMg1IgdG8gZXhlY3V0ZSBpdCBvciByZXBsYWNlIGl0IHdpdGggeW91ciBjb2RlLgojIFByZXNzIERvdWJsZSDih6cgdG8gc2VhcmNoIGV2ZXJ5d2hlcmUgZm9yIGNsYXNzZXMsIGZpbGVzLCB0b29sIHdpbmRvd3MsIGFjdGlvbnMsIGFuZCBzZXR0aW5ncy4KCgpkZWYgcHJpbnRfaGkobmFtZSk6CiAgICAjIFVzZSBhIGJyZWFrcG9pbnQgaW4gdGhlIGNvZGUgbGluZSBiZWxvdyB0byBkZWJ1ZyB5b3VyIHNjcmlwdC4KICAgIHByaW50KGYnSGksIHtuYW1lfScpICAjIFByZXNzIOKMmEY4IHRvIHRvZ2dsZSB0aGUgYnJlYWtwb2ludC4KCgojIFByZXNzIHRoZSBncmVlbiBidXR0b24gaW4gdGhlIGd1dHRlciB0byBydW4gdGhlIHNjcmlwdC4KaWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoKICAgIHByaW50X2hpKCdQeUNoYXJtJykKCiMgU2VlIFB5Q2hhcm0gaGVscCBhdCBodHRwczovL3d3dy5qZXRicmFpbnMuY29tL2hlbHAvcHljaGFybS8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
