@@ -110,9 +110,6 @@
       <file name="/Dummy.txt" timestamp="1593228853984">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1599205080181">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/fragment.py" timestamp="1593229338030">
         <mark key="[" line="0" column="0" />
       </file>
@@ -140,11 +137,10 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/etc/pso/space.py" timestamp="1599489402769">
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="22" column="33" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/workspace/etc/pso/space.py" timestamp="1599490944659">
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/deeplearning/ma-sls/ma-trainer.py" timestamp="1591227736335">
         <mark key="[" line="16" column="0" />
@@ -169,10 +165,11 @@
       <file name="$USER_HOME$/workspace/etc/minimal-RL-interface/src/env_utils/random_load_status.py" timestamp="1592170229569">
         <mark key="[" line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/etc/pso/pso.py" timestamp="1599488626771">
-        <mark key="[" line="28" column="51" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/workspace/etc/pso/pso.py" timestamp="1599494413872">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="35" />
+        <mark key="." line="12" column="35" />
+        <mark key="^" line="12" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/etc/plotting/plotting/scatter.py" timestamp="1593229303318">
         <mark key="[" line="20" column="0" />
@@ -301,11 +298,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBucC5yYW5kb20ucmFuZGludCgxLCAyMDApCg==</text>
+      <register name="&quot;" type="4">
+        <text>np.ones_like(self.current) * 10000</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>np.ones_like(self.current) * 10000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ZnJvbSA=</text>
@@ -314,31 +311,31 @@
         <text encoding="base64">ICAgICAgICBucC5yYW5kb20ucmFuZGludCgxLCAyMDApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBucC5yYW5kb20ucmFuZGludCgxLCAyMDApCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhcmFsbGVsID0gcGFyYWxsZWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBucC5yYW5kb20ucmFuZGludCgxLCAyMDApCg==</text>
+        <text encoding="base64">ICAgIGZvciBpbmRleCwgY2FzdCBpbiBlbnVtZXJhdGUoKToKICAgICAgICBpZiBjYXN0ID09IGludDoKICAgICAgICAgICAgdmVjdG9yW10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBucC5yYW5kb20ucmFuZGludCgxLCAyMDApCg==</text>
+        <text encoding="base64">Q0FTVCA9IFtmbG9hdCwgaW50LCBmbG9hdCwgZmxvYXQsIGludCwgaW50LCBpbnRdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnAucmFuZG9tLnNhbXBsZSgoKSkK</text>
+        <text encoding="base64">ICAgIGZvciB2LCB0LCBsLCB1IGluIHppcCh2ZWN0b3IsIENBU1QsIE1JTiwgTUFYKToKICAgICAgICBpZiB0ID09IGludDoKICAgICAgICAgICAgdiA9IG5wLnJvdW5kKHYpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RlcF9mbiA9IGxhbWJkYSBpZHgsIHZlY3RvcjogKGlkeCwgc2VsZi5zcGFjZS5zdGVwKHZlY3RvcikpCg==</text>
+        <text encoding="base64">ICAgICAgICBucC5yYW5kb20ucmFuZGludCgxLCAyMDApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RlcF9mbiA9IGxhbWJkYSBpZHgsIHZlY3RvcjogKGlkeCwgc2VsZi5zcGFjZS5zdGVwKHZlY3RvcikpCg==</text>
+        <text encoding="base64">ICAgICAgICBucC5yYW5kb20ucmFuZGludCgxLCAyMDApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBucC5yYW5kb20ucmFuZGludCgxLCAyMDApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgU2VhcmNoU3BhY2U6CiAgICBkZWYgc2FtcGxlKHNlbGYpOgogICAgICAgIHJhaXNlIE5vdEltcGxlbWVudGVkRXJyb3IKICAgIAogICAgQHByb3BlcnR5CiAgICBkZWYgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnAucmFuZG9tLnNhbXBsZSgoKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RlcF9mbiA9IGxhbWJkYSBpZHgsIHZlY3RvcjogKGlkeCwgc2VsZi5zcGFjZS5zdGVwKHZlY3RvcikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
