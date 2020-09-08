@@ -137,10 +137,11 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/etc/pso/space.py" timestamp="1599490944659">
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/workspace/etc/pso/space.py" timestamp="1599576972198">
+        <mark key="[" line="47" column="28" />
+        <mark key="]" line="46" column="91" />
+        <mark key="." line="46" column="91" />
+        <mark key="^" line="47" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/deeplearning/ma-sls/ma-trainer.py" timestamp="1591227736335">
         <mark key="[" line="16" column="0" />
@@ -299,10 +300,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>np.ones_like(self.current) * 10000</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>np.ones_like(self.current) * 10000</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ZnJvbSA=</text>
